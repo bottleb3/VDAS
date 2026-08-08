@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "limbos left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "limbos down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "limbos up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "limbos right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "limbos idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/limbos",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "limbos",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		0
+	],
+	"camera_position": [
+		-370,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

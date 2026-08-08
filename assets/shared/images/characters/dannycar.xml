@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dannycar.png">
+<SubTexture name="dannycar down0000" x="0" y="2619" width="863" height="365" frameX="-80" frameY="-339" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar down0001" x="2675" y="1959" width="863" height="378" frameX="-80" frameY="-326" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar down0002" x="2675" y="1183" width="863" height="389" frameX="-80" frameY="-315" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar down0003" x="2675" y="397" width="863" height="393" frameX="-80" frameY="-311" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar idle0000" x="1769" y="1793" width="863" height="403" frameX="-80" frameY="-301" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar left0000" x="1812" y="839" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar left0001" x="1812" y="1248" width="863" height="407" frameX="-80" frameY="-297" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar left0002" x="906" y="1793" width="863" height="405" frameX="-80" frameY="-299" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar left0003" x="1726" y="2216" width="863" height="401" frameX="-80" frameY="-303" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missdown0000" x="0" y="1793" width="906" height="423" frameX="-59" frameY="-303" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missdown0001" x="0" y="1358" width="906" height="435" frameX="-59" frameY="-291" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missleft0000" x="906" y="0" width="906" height="452" frameX="-59" frameY="-274" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missleft0001" x="0" y="462" width="906" height="452" frameX="-59" frameY="-274" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missright0000" x="906" y="914" width="906" height="443" frameX="-59" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missright0001" x="0" y="914" width="906" height="444" frameX="-59" frameY="-282" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missup0000" x="0" y="0" width="906" height="462" frameX="-59" frameY="-264" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar missup0001" x="906" y="462" width="906" height="452" frameX="-59" frameY="-274" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar right0000" x="2675" y="1572" width="863" height="387" frameX="-80" frameY="-317" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar right0001" x="2675" y="790" width="863" height="393" frameX="-80" frameY="-311" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar right0002" x="2675" y="0" width="863" height="397" frameX="-80" frameY="-307" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar right0003" x="0" y="2216" width="863" height="403" frameX="-80" frameY="-301" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar up0000" x="906" y="1358" width="863" height="434" frameX="-80" frameY="-270" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar up0001" x="1812" y="0" width="863" height="427" frameX="-80" frameY="-277" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar up0002" x="1812" y="427" width="863" height="412" frameX="-80" frameY="-292" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycar up0003" x="863" y="2216" width="863" height="403" frameX="-80" frameY="-301" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

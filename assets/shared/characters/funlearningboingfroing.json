@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				276,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "geritbf idle"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "geritbf left"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "geritbf down"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "geritbf up"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "geritbf right"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "geritbf missright"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "geritbf missup"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "geritbf missdown"
+		},
+		{
+			"offsets": [
+				275,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "geritbf missleft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/geritbf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "geritbpingfroing",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		80,
+		200
+	],
+	"camera_position": [
+		330,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

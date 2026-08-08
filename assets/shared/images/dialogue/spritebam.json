@@ -1,0 +1,77 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		210,
+		120
+	],
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				1
+			],
+			"idle_name": "spritebam happy",
+			"loop_name": "spritebam happy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "spritebam confused",
+			"loop_name": "spritebam confused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spritebam angry",
+			"idle_name": "spritebam angry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spritebam excited",
+			"idle_name": "spritebam excited"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exausted",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spritebam exausted",
+			"idle_name": "spritebam exausted"
+		}
+	],
+	"image": "spritebam"
+}

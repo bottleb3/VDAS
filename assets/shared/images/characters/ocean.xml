@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ocean.png">
+<SubTexture name="ocean down0000" x="0" y="2979" width="568" height="665" frameX="-228" frameY="-201" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean down0001" x="3470" y="693" width="501" height="692" frameX="-275" frameY="-175" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean down0002" x="2423" y="1437" width="471" height="715" frameX="-313" frameY="-152" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean down0003" x="2423" y="0" width="496" height="720" frameX="-287" frameY="-149" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean idle0000" x="3470" y="2077" width="405" height="688" frameX="-375" frameY="-175" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean idle0001" x="3009" y="2265" width="406" height="696" frameX="-371" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean idle0002" x="1841" y="2265" width="405" height="704" frameX="-361" frameY="-159" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean idle0003" x="2919" y="715" width="405" height="712" frameX="-349" frameY="-151" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean left0000" x="3470" y="0" width="614" height="693" frameX="-260" frameY="-169" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean left0001" x="1227" y="2265" width="614" height="709" frameX="-232" frameY="-153" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean left0002" x="0" y="2265" width="614" height="714" frameX="-220" frameY="-148" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean left0003" x="614" y="2265" width="613" height="713" frameX="-210" frameY="-150" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missdown0000" x="2246" y="2265" width="763" height="699" frameX="-129" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missdown0001" x="489" y="790" width="775" height="743" frameX="-135" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missleft0000" x="1313" y="1536" width="722" height="727" frameX="-188" frameY="-158" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missleft0001" x="556" y="1536" width="757" height="728" frameX="-118" frameY="-157" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missright0000" x="1893" y="0" width="530" height="729" frameX="-365" frameY="-158" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missright0001" x="0" y="790" width="489" height="746" frameX="-365" frameY="-141" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missup0000" x="0" y="0" width="663" height="790" frameX="-184" frameY="-92" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean missup0001" x="663" y="0" width="669" height="761" frameX="-193" frameY="-119" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean right0000" x="3470" y="1385" width="492" height="692" frameX="-388" frameY="-172" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean right0001" x="2919" y="1427" width="429" height="705" frameX="-388" frameY="-159" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean right0002" x="2423" y="720" width="361" height="717" frameX="-388" frameY="-147" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean right0003" x="1893" y="729" width="354" height="721" frameX="-388" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean up0000" x="1332" y="0" width="561" height="752" frameX="-268" frameY="-109" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean up0001" x="1264" y="790" width="561" height="739" frameX="-269" frameY="-123" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean up0002" x="0" y="1536" width="556" height="729" frameX="-272" frameY="-133" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ocean up0003" x="2919" y="0" width="551" height="715" frameX="-278" frameY="-144" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

@@ -1,0 +1,64 @@
+{
+	"position": [
+		0,
+		110
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"image": "bf",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf happy",
+			"idle_name": "bf happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "challenge",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf challenging",
+			"idle_name": "bf challenging"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf confused",
+			"idle_name": "bf confused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "beepbapbobop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf retarded fag",
+			"idle_name": "bf retarded fag"
+		}
+	]
+}

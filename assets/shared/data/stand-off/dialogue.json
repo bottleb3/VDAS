@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "How's the rap battling going?\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "Oh! Just great!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question",
+			"text": "However..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hm?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "Uh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "chilled out",
+			"text": "I do feel like I do have enough charge in my bionic legs to do a little something!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "Go on, let's do this!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "Uhm, Boyfriend I don't think doing this is a good idea-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You never know, you know!"
+		}
+	]
+}

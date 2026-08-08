@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wh- Where am I?!?!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHO DARES TOY WITH ME..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "UUUUHHHHHHHH....."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't play dumb with me, insect..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know why you're here..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But first, I will have to consider if you're brave enough to go defeat the \"being...\""
+		}
+	]
+}

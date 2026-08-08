@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ginger.png">
+<SubTexture name="ginger blushed0000" x="244" y="0" width="143" height="237" frameX="-53" frameY="-19" frameWidth="256" frameHeight="256" />
+<SubTexture name="ginger scared0000" x="0" y="0" width="244" height="253" frameX="-2" frameY="-3" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

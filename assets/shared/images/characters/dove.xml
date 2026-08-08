@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dove.png">
+<SubTexture name="dove down0000" x="2533" y="763" width="390" height="760" frameX="-252" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove down0001" x="1947" y="1662" width="370" height="764" frameX="-272" frameY="-181" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove down0002" x="1329" y="878" width="349" height="767" frameX="-293" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove down0003" x="1688" y="778" width="339" height="776" frameX="-303" frameY="-169" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove idle0000" x="976" y="1662" width="462" height="770" frameX="-303" frameY="-175" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove idle0001" x="877" y="878" width="452" height="778" frameX="-303" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove idle0002" x="443" y="878" width="434" height="780" frameX="-303" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove idle0003" x="0" y="878" width="443" height="784" frameX="-303" frameY="-161" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove left0000" x="2533" y="0" width="423" height="763" frameX="-225" frameY="-182" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove left0001" x="2133" y="776" width="380" height="771" frameX="-262" frameY="-174" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove left0002" x="2133" y="0" width="400" height="776" frameX="-303" frameY="-169" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove left0003" x="1688" y="0" width="445" height="778" frameX="-303" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove right0000" x="2956" y="0" width="582" height="760" frameX="-303" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove right0001" x="0" y="1662" width="543" height="775" frameX="-303" frameY="-170" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove right0002" x="1438" y="1662" width="509" height="769" frameX="-303" frameY="-176" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove right0003" x="543" y="1662" width="433" height="773" frameX="-303" frameY="-172" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove up0000" x="407" y="0" width="440" height="872" frameX="-202" frameY="-73" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove up0001" x="847" y="0" width="415" height="871" frameX="-227" frameY="-74" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove up0002" x="0" y="0" width="407" height="878" frameX="-267" frameY="-67" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dove up0003" x="1262" y="0" width="426" height="858" frameX="-289" frameY="-87" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

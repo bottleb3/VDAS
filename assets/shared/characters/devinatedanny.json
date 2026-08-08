@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "danny idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "danny right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "danny up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-90
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "danny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "danny down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/devinated/danny",
+	"position": [
+		-50,
+		80
+	],
+	"healthicon": "devinatedanny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-180,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}

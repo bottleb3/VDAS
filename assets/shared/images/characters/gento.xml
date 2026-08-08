@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gento.png">
+<SubTexture name="gento down0000" x="3018" y="1467" width="374" height="722" frameX="-284" frameY="-164" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento down0001" x="3018" y="735" width="367" height="732" frameX="-291" frameY="-154" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento down0002" x="2544" y="739" width="365" height="738" frameX="-293" frameY="-148" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento down0003" x="1796" y="745" width="363" height="743" frameX="-295" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento idle0000" x="535" y="2288" width="572" height="724" frameX="-209" frameY="-162" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento idle0001" x="0" y="2288" width="535" height="731" frameX="-232" frameY="-155" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento idle0002" x="2544" y="0" width="474" height="739" frameX="-263" frameY="-147" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento idle0003" x="0" y="1545" width="441" height="743" frameX="-281" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento left0000" x="441" y="1545" width="807" height="743" frameX="-84" frameY="-156" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento left0001" x="1796" y="0" width="748" height="745" frameX="-110" frameY="-142" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento left0002" x="0" y="794" width="693" height="751" frameX="-134" frameY="-131" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento left0003" x="693" y="794" width="536" height="750" frameX="-176" frameY="-132" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento right0000" x="1107" y="2288" width="535" height="714" frameX="-374" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento right0001" x="3018" y="0" width="500" height="735" frameX="-377" frameY="-144" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento right0002" x="1770" y="1545" width="444" height="740" frameX="-359" frameY="-139" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento right0003" x="1229" y="794" width="388" height="749" frameX="-347" frameY="-134" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento up0000" x="0" y="0" width="636" height="794" frameX="-167" frameY="-92" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento up0001" x="636" y="0" width="603" height="780" frameX="-192" frameY="-106" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento up0002" x="1239" y="0" width="557" height="767" frameX="-209" frameY="-119" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gento up0003" x="1248" y="1545" width="522" height="743" frameX="-229" frameY="-143" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

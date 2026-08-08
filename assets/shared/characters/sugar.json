@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sugar right"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sugar up"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sugar left"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sugar down"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sugar idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/sugar",
+	"position": [
+		-10,
+		-110
+	],
+	"healthicon": "sugar",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		170,
+		255
+	],
+	"camera_position": [
+		-390,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

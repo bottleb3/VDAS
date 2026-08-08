@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="youdiegaeover.png">
+<SubTexture name="youdiegaeover deadconfirmation0000" x="1000" y="0" width="811" height="179" frameX="-107" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deadconfirmation0001" x="1000" y="179" width="789" height="179" frameX="-117" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deadconfirmation0002" x="1000" y="358" width="761" height="179" frameX="-131" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deadconfirmation0003" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0000" x="0" y="1000" width="846" height="179" frameX="-84" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0001" x="846" y="1000" width="817" height="179" frameX="-101" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0002" x="1000" y="716" width="788" height="179" frameX="-115" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0003" x="0" y="1179" width="758" height="179" frameX="-132" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0004" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0005" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0006" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0007" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0008" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0009" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0010" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover deathloop0011" x="1000" y="537" width="738" height="179" frameX="-145" frameY="-407" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0000" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0001" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0002" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0003" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0004" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0005" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0006" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0007" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0008" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="youdiegaeover dies0009" x="0" y="0" width="1000" height="1000" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

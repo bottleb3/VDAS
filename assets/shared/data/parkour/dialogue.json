@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "I'm up for another one!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Sweet!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Danny, mind joining me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question",
+			"text": "Oh- Uhm-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question",
+			"text": "Uhhhhh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": ".............................."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "chilled out",
+			"text": "Alright, fine."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Awesome!"
+		}
+	]
+}

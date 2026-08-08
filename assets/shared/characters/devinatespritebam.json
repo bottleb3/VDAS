@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "spritebam idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "spritebam right"
+		},
+		{
+			"offsets": [
+				-10,
+				-188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "spritebam up"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "spritebam left"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "spritebam down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/devinated/spritebam",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "devinatebam",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		85,
+		82
+	],
+	"camera_position": [
+		-160,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

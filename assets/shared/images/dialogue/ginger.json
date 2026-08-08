@@ -1,0 +1,77 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		110
+	],
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				1
+			],
+			"idle_name": "ginger happy",
+			"loop_name": "ginger happy"
+		},
+		{
+			"loop_name": "ginger annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ginger annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ginger flattered",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ginger flattered",
+			"anim": "flattered",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ginger concerened",
+			"idle_offsets": [
+				-60,
+				0
+			],
+			"idle_name": "ginger concerened",
+			"anim": "concerened",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ginger cocky",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ginger cocky",
+			"anim": "cocky",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ginger"
+}

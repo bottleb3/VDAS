@@ -1,0 +1,293 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"high effort",
+			"Temi",
+			[
+				0,
+				213,
+				55
+			]
+		],
+		[
+			"jello",
+			"Meldo",
+			[
+				220,
+				255,
+				0
+			]
+		],
+		[
+			"screamer",
+			"vunhi",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"desert",
+			"sugar",
+			[
+				0,
+				170,
+				255
+			]
+		],
+		[
+			"sea levels",
+			"Ocean",
+			[
+				46,
+				0,
+				253
+			]
+		],
+		[
+			"critical combo",
+			"Nembi",
+			[
+				1,
+				255,
+				255
+			]
+		],
+		[
+			"devinated",
+			"devinatedanny",
+			[
+				255,
+				242,
+				0
+			]
+		],
+		[
+			"dream course",
+			"kirbydanny",
+			[
+				255,
+				242,
+				0
+			]
+		],
+		[
+			"road rage",
+			"Barly",
+			[
+				101,
+				106,
+				88
+			]
+		],
+		[
+			"harvest heaven",
+			"bembai",
+			[
+				255,
+				55,
+				0
+			]
+		],
+		[
+			"fun learning",
+			"gerit",
+			[
+				0,
+				60,
+				75
+			]
+		],
+		[
+			"rusted",
+			"wire",
+			[
+				0,
+				85,
+				169
+			]
+		],
+		[
+			"editional battles",
+			"bainorm",
+			[
+				255,
+				1,
+				115
+			]
+		],
+		[
+			"toothpaste",
+			"toothpaste",
+			[
+				255,
+				255,
+				233
+			]
+		],
+		[
+			"limbastical",
+			"limbos",
+			[
+				255,
+				115,
+				0
+			]
+		],
+		[
+			"limbas2cal",
+			"limbos",
+			[
+				255,
+				115,
+				0
+			]
+		],
+		[
+			"play park",
+			"bumbopz",
+			[
+				126,
+				173,
+				255
+			]
+		],
+		[
+			"porked",
+			"spritebam",
+			[
+				255,
+				0,
+				147
+			]
+		],
+		[
+			"ack!",
+			"yoshi",
+			[
+				0,
+				135,
+				40
+			]
+		],
+		[
+			"electile dysfunction",
+			"trump",
+			[
+				255,
+				95,
+				0
+			]
+		],
+		[
+			"brotherhood",
+			"cabnom",
+			[
+				155,
+				0,
+				0
+			]
+		],
+		[
+			"equasional",
+			"Dove",
+			[
+				125,
+				85,
+				170
+			]
+		],
+		[
+			"fun sized",
+			"Mily",
+			[
+				255,
+				85,
+				84
+			]
+		],
+		[
+			"music theory",
+			"Chubble",
+			[
+				170,
+				130,
+				255
+			]
+		],
+		[
+			"extra terrestrial",
+			"ET",
+			[
+				150,
+				170,
+				85
+			]
+		],
+		[
+			"temporary",
+			"testai",
+			[
+				85,
+				255,
+				85
+			]
+		],
+		[
+			"ranter",
+			"Jembi",
+			[
+				20,
+				255,
+				53
+			]
+		],
+		[
+			"artistic choices",
+			"vunhi",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"oneshot",
+			"spritebamoneshot",
+			[
+				255,
+				174,
+				200
+			]
+		],
+		[
+			"spectrum",
+			"autism danny",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

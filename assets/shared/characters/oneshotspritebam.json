@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "oneshotspritebam idle"
+		},
+		{
+			"offsets": [
+				410,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "oneshotspritebam right"
+		},
+		{
+			"offsets": [
+				410,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "oneshotspritebam up"
+		},
+		{
+			"offsets": [
+				410,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "oneshotspritebam left"
+		},
+		{
+			"offsets": [
+				410,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "oneshotspritebam down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/oneshotspritebam",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "spritebamoneshot",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		174,
+		200
+	],
+	"camera_position": [
+		-570,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

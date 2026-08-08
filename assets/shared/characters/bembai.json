@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bembai idle"
+		},
+		{
+			"offsets": [
+				360,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bembai right"
+		},
+		{
+			"offsets": [
+				360,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bembai up"
+		},
+		{
+			"offsets": [
+				360,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bembai left"
+		},
+		{
+			"offsets": [
+				360,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bembai down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bembai",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "bembai",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		23,
+		0
+	],
+	"camera_position": [
+		-510,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

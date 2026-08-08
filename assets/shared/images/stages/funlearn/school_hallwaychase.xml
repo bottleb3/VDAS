@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="school_hallwaychase.png">
+<SubTexture name="school_hallwaychase idle0000" x="0" y="0" width="1919" height="1079" frameX="0" frameY="0" frameWidth="1919" frameHeight="1079" />
+<SubTexture name="school_hallwaychase idle0001" x="1919" y="0" width="1919" height="1079" frameX="0" frameY="0" frameWidth="1919" frameHeight="1079" />
+<SubTexture name="school_hallwaychase idle0002" x="0" y="1079" width="1919" height="1079" frameX="0" frameY="0" frameWidth="1919" frameHeight="1079" />
+<SubTexture name="school_hallwaychase idle0003" x="1919" y="1079" width="1919" height="1079" frameX="0" frameY="0" frameWidth="1919" frameHeight="1079" />
+<SubTexture name="school_hallwaychase idle0004" x="0" y="2158" width="1919" height="1079" frameX="0" frameY="0" frameWidth="1919" frameHeight="1079" />
+<SubTexture name="school_hallwaychase idle0005" x="1919" y="2158" width="1919" height="1079" frameX="0" frameY="0" frameWidth="1919" frameHeight="1079" />
+</TextureAtlas>

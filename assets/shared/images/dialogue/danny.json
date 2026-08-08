@@ -1,0 +1,103 @@
+{
+	"position": [
+		210,
+		120
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"image": "danny",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny happy",
+			"idle_name": "danny happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "chilled out",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny chilled out",
+			"idle_name": "danny chilled out"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ready",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny ready",
+			"idle_name": "danny ready"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny sad",
+			"idle_name": "danny sad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "realization",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny realziation",
+			"idle_name": "danny realziation"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "question",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny question",
+			"idle_name": "danny question"
+		},
+		{
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "question2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "danny confused 2",
+			"idle_name": "danny confused 2"
+		}
+	]
+}

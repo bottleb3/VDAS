@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="temiforward.png">
+<SubTexture name="temiforward down0000" x="1860" y="472" width="290" height="457" frameX="-348" frameY="-303" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward down0001" x="1571" y="0" width="289" height="472" frameX="-348" frameY="-288" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward down0002" x="1251" y="486" width="289" height="483" frameX="-348" frameY="-277" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward down0003" x="395" y="496" width="287" height="490" frameX="-349" frameY="-270" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward idle0000" x="0" y="1470" width="430" height="470" frameX="-275" frameY="-290" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward idle0001" x="789" y="987" width="400" height="478" frameX="-295" frameY="-282" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward idle0002" x="682" y="496" width="364" height="487" frameX="-315" frameY="-273" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward idle0003" x="0" y="0" width="320" height="496" frameX="-337" frameY="-264" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward left0000" x="949" y="1470" width="428" height="459" frameX="-192" frameY="-301" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward left0001" x="1189" y="987" width="372" height="476" frameX="-240" frameY="-284" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward left0002" x="1251" y="0" width="320" height="486" frameX="-281" frameY="-274" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward left0003" x="966" y="0" width="285" height="494" frameX="-322" frameY="-266" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward right0000" x="430" y="1470" width="519" height="469" frameX="-236" frameY="-291" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward right0001" x="0" y="987" width="469" height="483" frameX="-258" frameY="-277" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward right0002" x="0" y="496" width="395" height="491" frameX="-293" frameY="-269" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward right0003" x="639" y="0" width="327" height="495" frameX="-331" frameY="-265" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward up0000" x="1860" y="929" width="319" height="453" frameX="-335" frameY="-310" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward up0001" x="1860" y="0" width="319" height="472" frameX="-335" frameY="-291" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward up0002" x="469" y="987" width="320" height="479" frameX="-335" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temiforward up0003" x="320" y="0" width="319" height="496" frameX="-336" frameY="-264" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "testai right"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "testai idle"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "testai up"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "testai left"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "testai down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/testai",
+	"position": [
+		250,
+		0
+	],
+	"healthicon": "testai",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		255,
+		85
+	],
+	"camera_position": [
+		-350,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

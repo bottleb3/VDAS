@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-41,
+				-293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "b3 idle"
+		},
+		{
+			"offsets": [
+				129,
+				-310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "b3 right"
+		},
+		{
+			"offsets": [
+				39,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "b3 up"
+		},
+		{
+			"offsets": [
+				29,
+				-350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "b3 left"
+		},
+		{
+			"offsets": [
+				129,
+				-360
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "b3 down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/devinated/b3",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "BottleB3",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

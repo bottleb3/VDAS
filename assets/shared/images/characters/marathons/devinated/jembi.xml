@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jembi.png">
+<SubTexture name="jembi down0000" x="1346" y="0" width="261" height="285" frameX="-141" frameY="-128" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi down0001" x="876" y="938" width="256" height="287" frameX="-141" frameY="-123" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi down0002" x="819" y="299" width="255" height="290" frameX="-141" frameY="-120" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi down0003" x="1074" y="590" width="255" height="293" frameX="-141" frameY="-117" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi idle0000" x="594" y="938" width="282" height="291" frameX="-135" frameY="-119" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi idle0001" x="1074" y="0" width="272" height="295" frameX="-135" frameY="-115" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi idle0002" x="269" y="640" width="265" height="297" frameX="-135" frameY="-113" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi idle0003" x="262" y="333" width="261" height="300" frameX="-135" frameY="-110" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi left0000" x="289" y="938" width="305" height="294" frameX="-121" frameY="-116" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi left0001" x="0" y="938" width="289" height="295" frameX="-124" frameY="-115" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi left0002" x="534" y="640" width="272" height="296" frameX="-130" frameY="-114" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi left0003" x="819" y="0" width="255" height="299" frameX="-138" frameY="-111" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi right0000" x="806" y="640" width="258" height="289" frameX="-182" frameY="-121" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi right0001" x="1074" y="295" width="265" height="295" frameX="-167" frameY="-115" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi right0002" x="0" y="640" width="269" height="298" frameX="-153" frameY="-112" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi right0003" x="523" y="333" width="267" height="300" frameX="-148" frameY="-110" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi up0000" x="0" y="0" width="278" height="333" frameX="-154" frameY="-77" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi up0001" x="278" y="0" width="274" height="327" frameX="-150" frameY="-83" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi up0002" x="552" y="0" width="267" height="316" frameX="-147" frameY="-94" frameWidth="569" frameHeight="516" />
+<SubTexture name="jembi up0003" x="0" y="333" width="262" height="307" frameX="-144" frameY="-103" frameWidth="569" frameHeight="516" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"storyName": "the house",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"collaberation",
+			"spritebam",
+			[
+				255,
+				0,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

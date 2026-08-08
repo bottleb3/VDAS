@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gerit.png">
+<SubTexture name="gerit down0000" x="344" y="693" width="641" height="674" frameX="-166" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit down0001" x="1469" y="1368" width="659" height="600" frameX="-161" frameY="-258" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit down0002" x="0" y="2016" width="668" height="554" frameX="-160" frameY="-305" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit down0003" x="668" y="2016" width="676" height="476" frameX="-160" frameY="-383" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit idle0000" x="0" y="0" width="332" height="693" frameX="-322" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit left0000" x="531" y="1368" width="566" height="646" frameX="-103" frameY="-214" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit left0001" x="1785" y="0" width="550" height="668" frameX="-143" frameY="-192" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit left0002" x="809" y="0" width="508" height="681" frameX="-189" frameY="-179" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit left0003" x="332" y="0" width="477" height="687" frameX="-221" frameY="-173" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit right0000" x="0" y="1368" width="531" height="648" frameX="-328" frameY="-211" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit right0001" x="1785" y="668" width="524" height="655" frameX="-301" frameY="-204" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit right0002" x="985" y="693" width="502" height="674" frameX="-304" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit right0003" x="1317" y="0" width="468" height="680" frameX="-316" frameY="-179" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit up0000" x="2335" y="599" width="385" height="573" frameX="-230" frameY="-287" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit up0001" x="2335" y="0" width="386" height="599" frameX="-255" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit up0002" x="1097" y="1368" width="372" height="644" frameX="-281" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="gerit up0003" x="0" y="693" width="344" height="675" frameX="-312" frameY="-185" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

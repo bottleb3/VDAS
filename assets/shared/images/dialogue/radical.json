@@ -1,0 +1,90 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		210,
+		140
+	],
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"animations": [
+		{
+			"idle_offsets": [
+				1,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radical happy",
+			"loop_name": "radical happy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "ready",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radical ready",
+			"loop_name": "radical ready"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radical confused",
+			"loop_name": "radical confused"
+		},
+		{
+			"loop_name": "radical warned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radical warned",
+			"anim": "wanred",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "radical worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radical worried",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "radical concerned",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radical concerned",
+			"anim": "concerned",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "radical"
+}

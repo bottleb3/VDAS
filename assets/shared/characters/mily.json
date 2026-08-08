@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [250, -130],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mily idle"
+		},
+		{
+			"offsets": [250, -130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mily right"
+		},
+		{
+			"offsets": [250, -130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mily up"
+		},
+		{
+			"offsets": [250, -130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mily left"
+		},
+		{
+			"offsets": [250, -130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mily down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/mily",
+	"position": [50, 0],
+	"healthicon": "Mily",
+	"flip_x": false,
+	"healthbar_colors": [255, 85, 84],
+	"camera_position": [-420, 80],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

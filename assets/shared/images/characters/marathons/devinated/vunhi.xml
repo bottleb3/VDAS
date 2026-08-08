@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vunhi.png">
+<SubTexture name="vunhi down0000" x="290" y="1442" width="297" height="429" frameX="-105" frameY="-119" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi down0001" x="0" y="1442" width="290" height="436" frameX="-105" frameY="-112" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi down0002" x="1674" y="0" width="274" height="442" frameX="-105" frameY="-106" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi down0003" x="822" y="502" width="274" height="454" frameX="-105" frameY="-94" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi idle0000" x="1397" y="467" width="274" height="460" frameX="-114" frameY="-88" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi idle0001" x="1096" y="468" width="274" height="467" frameX="-109" frameY="-81" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi idle0002" x="548" y="502" width="274" height="472" frameX="-107" frameY="-76" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi idle0003" x="0" y="502" width="274" height="475" frameX="-105" frameY="-73" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi left0000" x="956" y="977" width="338" height="460" frameX="-31" frameY="-88" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi left0001" x="0" y="977" width="324" height="465" frameX="-44" frameY="-83" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi left0002" x="1096" y="0" width="301" height="468" frameX="-60" frameY="-80" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi left0003" x="274" y="502" width="274" height="475" frameX="-82" frameY="-73" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi right0000" x="1294" y="977" width="346" height="456" frameX="-99" frameY="-94" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi right0001" x="627" y="977" width="329" height="462" frameX="-108" frameY="-88" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi right0002" x="324" y="977" width="303" height="465" frameX="-121" frameY="-83" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi right0003" x="1397" y="0" width="277" height="467" frameX="-128" frameY="-80" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi up0000" x="0" y="0" width="274" height="502" frameX="-105" frameY="-46" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi up0001" x="274" y="0" width="274" height="492" frameX="-105" frameY="-56" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi up0002" x="548" y="0" width="274" height="486" frameX="-105" frameY="-62" frameWidth="569" frameHeight="642" />
+<SubTexture name="vunhi up0003" x="822" y="0" width="274" height="480" frameX="-105" frameY="-68" frameWidth="569" frameHeight="642" />
+</TextureAtlas>

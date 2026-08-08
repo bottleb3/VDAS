@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				340,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "trump idle"
+		},
+		{
+			"offsets": [
+				340,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "trump right"
+		},
+		{
+			"offsets": [
+				340,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "trump up"
+		},
+		{
+			"offsets": [
+				340,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "trump left"
+		},
+		{
+			"offsets": [
+				340,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "trump down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/trump",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "trump",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		95,
+		0
+	],
+	"camera_position": [
+		-510,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

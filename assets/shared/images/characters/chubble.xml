@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chubble.png">
+<SubTexture name="chubble down0000" x="2133" y="2244" width="711" height="450" frameX="-190" frameY="-444" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble down0001" x="1422" y="2244" width="711" height="466" frameX="-190" frameY="-427" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble down0002" x="711" y="2244" width="711" height="477" frameX="-190" frameY="-415" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble down0003" x="0" y="2244" width="711" height="483" frameX="-190" frameY="-409" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble idle0000" x="2268" y="1515" width="412" height="718" frameX="-322" frameY="-137" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble idle0001" x="1249" y="1515" width="412" height="727" frameX="-322" frameY="-128" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble idle0002" x="1080" y="770" width="412" height="730" frameX="-322" frameY="-125" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble idle0003" x="2176" y="739" width="412" height="734" frameX="-322" frameY="-121" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble left0000" x="2774" y="0" width="662" height="713" frameX="-158" frameY="-144" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble left0001" x="0" y="1515" width="634" height="729" frameX="-207" frameY="-128" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble left0002" x="508" y="770" width="572" height="742" frameX="-263" frameY="-115" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble left0003" x="0" y="770" width="508" height="745" frameX="-318" frameY="-112" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble right0000" x="1661" y="1515" width="607" height="724" frameX="-291" frameY="-130" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble right0001" x="634" y="1515" width="615" height="729" frameX="-281" frameY="-125" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble right0002" x="2176" y="0" width="598" height="739" frameX="-280" frameY="-115" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble right0003" x="1617" y="0" width="559" height="740" frameX="-265" frameY="-114" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble up0000" x="0" y="0" width="586" height="770" frameX="-221" frameY="-85" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble up0001" x="586" y="0" width="535" height="757" frameX="-255" frameY="-98" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble up0002" x="1121" y="0" width="496" height="748" frameX="-267" frameY="-107" frameWidth="1054" frameHeight="985" />
+<SubTexture name="chubble up0003" x="1617" y="740" width="451" height="734" frameX="-281" frameY="-121" frameWidth="1054" frameHeight="985" />
+</TextureAtlas>

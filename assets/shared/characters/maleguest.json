@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "maleguest idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "maleguest right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "maleguest up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-170
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "maleguest left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "maleguest down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/maleguest",
+	"position": [
+		-430,
+		-210
+	],
+	"healthicon": "maleguest",
+	"flip_x": false,
+	"healthbar_colors": [
+		4,
+		0,
+		255
+	],
+	"camera_position": [
+		-60,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}

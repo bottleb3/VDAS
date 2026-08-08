@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dannymad.png">
+<SubTexture name="dannymad down0000" x="1466" y="1590" width="418" height="456" frameX="-79" frameY="-96" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad down0001" x="1096" y="1590" width="370" height="478" frameX="-102" frameY="-74" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad down0002" x="779" y="1590" width="317" height="494" frameX="-124" frameY="-58" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad down0003" x="1159" y="1073" width="298" height="514" frameX="-126" frameY="-38" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0000" x="1457" y="1073" width="395" height="504" frameX="-78" frameY="-53" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0001" x="1859" y="1024" width="373" height="508" frameX="-91" frameY="-47" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0002" x="1050" y="545" width="335" height="517" frameX="-119" frameY="-37" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0003" x="0" y="1073" width="320" height="517" frameX="-126" frameY="-35" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0004" x="0" y="545" width="395" height="528" frameX="-86" frameY="-37" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0005" x="1038" y="0" width="367" height="529" frameX="-100" frameY="-33" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0006" x="395" y="545" width="343" height="526" frameX="-114" frameY="-31" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad idle0007" x="0" y="1073" width="320" height="517" frameX="-126" frameY="-35" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad left0000" x="396" y="1590" width="383" height="495" frameX="-72" frameY="-55" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad left0001" x="0" y="1590" width="396" height="501" frameX="-53" frameY="-49" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad left0002" x="1859" y="0" width="412" height="512" frameX="-32" frameY="-38" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad left0003" x="745" y="1073" width="414" height="515" frameX="-17" frameY="-35" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad right0000" x="1405" y="0" width="454" height="518" frameX="-64" frameY="-47" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad right0001" x="320" y="1073" width="425" height="516" frameX="-71" frameY="-43" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad right0002" x="1405" y="518" width="396" height="518" frameX="-84" frameY="-40" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad right0003" x="1859" y="512" width="355" height="512" frameX="-103" frameY="-38" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad up0000" x="0" y="0" width="353" height="545" frameX="-71" frameY="-10" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad up0001" x="353" y="0" width="347" height="536" frameX="-77" frameY="-18" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad up0002" x="700" y="0" width="338" height="530" frameX="-86" frameY="-23" frameWidth="569" frameHeight="642" />
+<SubTexture name="dannymad up0003" x="738" y="545" width="312" height="526" frameX="-112" frameY="-26" frameWidth="569" frameHeight="642" />
+</TextureAtlas>

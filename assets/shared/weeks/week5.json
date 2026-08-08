@@ -1,0 +1,50 @@
+{
+	"storyName": "the sidewalk",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "chubble",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"weapon",
+			"Chubble",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"synonymous",
+			"Ginger",
+			[
+				255,
+				170,
+				0
+			]
+		],
+		[
+			"colony",
+			"Chubble",
+			[
+				186,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

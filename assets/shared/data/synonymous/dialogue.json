@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Aye man that wasn't that bad."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Though, I was better."
+		},
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "chubble",
+			"boxState": "angry",
+			"expression": "angery",
+			"text": "GINGER!!!!!!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "wha-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "angry",
+			"expression": "agressive",
+			"text": "YOU SING."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "UHHHHH-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "angry",
+			"expression": "challenged",
+			"text": "AGAINST HIM, NOW."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "OK?!?!!?!?!?!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

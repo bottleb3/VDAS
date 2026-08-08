@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bigbadbarly idle"
+		},
+		{
+			"offsets": [
+				220,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bigbadbarly right"
+		},
+		{
+			"offsets": [
+				220,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bigbadbarly up"
+		},
+		{
+			"offsets": [
+				220,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bigbadbarly left"
+		},
+		{
+			"offsets": [
+				220,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bigbadbarly down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bigbadbarly",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "Barly",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		106,
+		88
+	],
+	"camera_position": [
+		-590,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

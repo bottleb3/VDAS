@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oneshotspritebam.png">
+<SubTexture name="oneshotspritebam down0000" x="1661" y="0" width="320" height="323" frameX="-472" frameY="-313" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam down0001" x="0" y="1472" width="335" height="321" frameX="-472" frameY="-315" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam down0002" x="335" y="1472" width="345" height="321" frameX="-472" frameY="-315" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam down0003" x="750" y="1118" width="351" height="325" frameX="-472" frameY="-315" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam idle0000" x="0" y="0" width="311" height="388" frameX="-439" frameY="-229" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam idle0001" x="311" y="0" width="310" height="378" frameX="-440" frameY="-242" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam idle0002" x="621" y="0" width="310" height="372" frameX="-440" frameY="-251" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam idle0003" x="0" y="388" width="310" height="372" frameX="-440" frameY="-251" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam left0000" x="755" y="760" width="285" height="354" frameX="-463" frameY="-296" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam left0001" x="1040" y="760" width="285" height="354" frameX="-448" frameY="-296" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam left0002" x="1373" y="0" width="288" height="354" frameX="-433" frameY="-296" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam left0003" x="0" y="1118" width="300" height="354" frameX="-403" frameY="-296" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam right0000" x="931" y="359" width="326" height="358" frameX="-388" frameY="-281" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam right0001" x="0" y="760" width="361" height="358" frameX="-365" frameY="-281" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam right0002" x="361" y="760" width="394" height="358" frameX="-350" frameY="-282" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam right0003" x="310" y="388" width="448" height="368" frameX="-331" frameY="-281" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam up0000" x="931" y="0" width="442" height="359" frameX="-405" frameY="-286" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam up0001" x="300" y="1118" width="450" height="343" frameX="-399" frameY="-272" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam up0002" x="1101" y="1118" width="455" height="325" frameX="-397" frameY="-252" frameWidth="1199" frameHeight="757" />
+<SubTexture name="oneshotspritebam up0003" x="680" y="1472" width="460" height="311" frameX="-396" frameY="-238" frameWidth="1199" frameHeight="757" />
+</TextureAtlas>

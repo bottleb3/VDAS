@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bembai idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bembai right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bembai up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bembai left]",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bembai down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/devinated/bembai",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "devinatebembai",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-220,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

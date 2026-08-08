@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="danny.png">
+<SubTexture name="danny chilled out0000" x="371" y="0" width="188" height="246" frameX="-27" frameY="-10" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny confused0000" x="0" y="0" width="175" height="251" frameX="-50" frameY="-5" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny happy0000" x="175" y="0" width="196" height="251" frameX="-5" frameY="-5" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny confused 20000" x="0" y="251" width="149" height="246" frameX="-46" frameY="-10" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny question 20000" x="149" y="251" width="133" height="246" frameX="-46" frameY="-10" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny sad0000" x="559" y="244" width="204" height="242" frameX="-46" frameY="-14" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny ready0000" x="559" y="0" width="206" height="244" frameX="-46" frameY="-12" frameWidth="256" frameHeight="256" />
+<SubTexture name="danny realziation0000" x="282" y="251" width="188" height="246" frameX="-27" frameY="-10" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

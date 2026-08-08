@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sam.png">
+<SubTexture name="sam idle0000" x="2010" y="2010" width="601" height="492" frameX="-153" frameY="-323" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam idle0001" x="998" y="2010" width="587" height="531" frameX="-176" frameY="-274" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam idle0002" x="425" y="2010" width="573" height="563" frameX="-201" frameY="-243" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam idle0003" x="2007" y="1366" width="517" height="576" frameX="-249" frameY="-215" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam right0000" x="1796" y="0" width="833" height="647" frameX="-165" frameY="-154" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam right0001" x="675" y="1366" width="771" height="639" frameX="-189" frameY="-162" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam right0002" x="0" y="1366" width="675" height="644" frameX="-219" frameY="-157" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam right0003" x="1156" y="699" width="609" height="636" frameX="-233" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam left0000" x="0" y="699" width="627" height="667" frameX="-26" frameY="-120" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam left0001" x="1446" y="1366" width="561" height="627" frameX="-87" frameY="-160" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam left0002" x="627" y="699" width="529" height="648" frameX="-113" frameY="-139" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam left0003" x="863" y="0" width="499" height="683" frameX="-131" frameY="-104" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam up0000" x="0" y="0" width="431" height="699" frameX="-156" frameY="-90" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam up0001" x="431" y="0" width="432" height="689" frameX="-155" frameY="-100" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam up0002" x="1362" y="0" width="434" height="672" frameX="-153" frameY="-117" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam up0003" x="1796" y="647" width="436" height="645" frameX="-152" frameY="-144" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam down0000" x="2629" y="463" width="425" height="424" frameX="-227" frameY="-368" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam down0001" x="2629" y="0" width="425" height="463" frameX="-227" frameY="-329" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam down0002" x="1585" y="2010" width="425" height="517" frameX="-227" frameY="-275" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="sam down0003" x="0" y="2010" width="425" height="571" frameX="-227" frameY="-221" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

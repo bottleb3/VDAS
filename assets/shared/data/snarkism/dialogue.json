@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Spritebam and Jembi had just finished their shopping after rapping against Boyfriend, but were soon to come to another battle."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All thanks to Jembi's sarcasm."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Now Spritebam, your singing wasn't great, but-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Jembi, you've been on about them the entire day now just give it a rest."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "We'll see..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "getting ready",
+			"text": "Oh would you look at that..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Oh no..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "jembi",
+			"boxState": "angry",
+			"expression": "challenged 2",
+			"text": "HEY!"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "spritebam",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Jembi, no!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "Oh great what do these guys want now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "Of course you answer..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "getting ready",
+			"text": "Now, I know that that wasn't the best choice to cut into that last song, so how about a rematch..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Jembi, no. I don't want to do an-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Against me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh, uh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "beepbapbobop",
+			"text": "Great!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "Here we go..."
+		}
+	]
+}

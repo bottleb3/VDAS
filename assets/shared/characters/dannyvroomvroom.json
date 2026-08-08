@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dannycar idle"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dannycar left"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dannycar down"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dannycar up"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dannycar right"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "dannycar missright"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "dannycar missup"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "dannycar missdown"
+		},
+		{
+			"offsets": [
+				495,
+				300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "dannycar missleft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/dannycar",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Danny",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		450,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				500,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "fakendertrue idle"
+		},
+		{
+			"offsets": [
+				500,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fakendertrue left"
+		},
+		{
+			"offsets": [
+				500,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fakendertrue down"
+		},
+		{
+			"offsets": [
+				500,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fakendertrue right"
+		},
+		{
+			"offsets": [
+				500,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fakendertrue up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "stages/secret-shhhh/advancement/fakendertrue",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fakendertrue",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-710,
+		-530
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

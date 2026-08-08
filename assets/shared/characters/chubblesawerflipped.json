@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chubblesawer idle"
+		},
+		{
+			"offsets": [
+				300,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chubblesawer left"
+		},
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chubblesawer down"
+		},
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chubblesawer up"
+		},
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chubblesawer right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/chubblesawer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Chubble",
+	"flip_x": true,
+	"healthbar_colors": [
+		170,
+		130,
+		255
+	],
+	"camera_position": [
+		-530,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

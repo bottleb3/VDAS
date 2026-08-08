@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="radical.png">
+<SubTexture name="radical ready0000" x="191" y="0" width="243" height="240" frameX="-3" frameY="-16" frameWidth="256" frameHeight="256" />
+<SubTexture name="radical concerned0000" x="195" y="245" width="182" height="231" frameX="-28" frameY="-25" frameWidth="256" frameHeight="256" />
+<SubTexture name="radical worried0000" x="0" y="0" width="191" height="245" frameX="-33" frameY="-11" frameWidth="256" frameHeight="256" />
+<SubTexture name="radical happy0000" x="434" y="0" width="195" height="240" frameX="-21" frameY="-16" frameWidth="256" frameHeight="256" />
+<SubTexture name="radical warned0000" x="0" y="245" width="195" height="240" frameX="-21" frameY="-16" frameWidth="256" frameHeight="256" />
+<SubTexture name="radical confused0000" x="377" y="245" width="182" height="231" frameX="-28" frameY="-25" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

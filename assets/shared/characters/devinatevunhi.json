@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "vunhi idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "vunhi right"
+		},
+		{
+			"offsets": [
+				-10,
+				-188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "vunhi up"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "vunhi left"
+		},
+		{
+			"offsets": [
+				-10,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "vunhi down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/devinated/vunhi",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "devinatevunhi",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		85,
+		170
+	],
+	"camera_position": [
+		-190,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

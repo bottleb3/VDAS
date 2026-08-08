@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nembi.png">
+<SubTexture name="nembi down0000" x="1033" y="2897" width="973" height="893" frameX="-268" frameY="-348" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi down0001" x="3369" y="0" width="898" height="915" frameX="-300" frameY="-326" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi down0002" x="0" y="1950" width="823" height="947" frameX="-346" frameY="-294" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi down0003" x="0" y="0" width="717" height="983" frameX="-406" frameY="-258" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi idle0000" x="1960" y="959" width="549" height="958" frameX="-441" frameY="-282" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi idle0001" x="1079" y="983" width="530" height="961" frameX="-441" frameY="-278" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi idle0002" x="0" y="983" width="515" height="967" frameX="-441" frameY="-272" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi idle0003" x="1452" y="0" width="508" height="971" frameX="-441" frameY="-268" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi left0000" x="0" y="2897" width="1033" height="895" frameX="-62" frameY="-344" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi left0001" x="1388" y="1950" width="977" height="934" frameX="-103" frameY="-305" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi left0002" x="1960" y="0" width="857" height="959" frameX="-197" frameY="-280" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi left0003" x="717" y="0" width="735" height="972" frameX="-259" frameY="-267" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi right0000" x="3369" y="915" width="664" height="909" frameX="-399" frameY="-330" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi right0001" x="2365" y="1950" width="598" height="928" frameX="-444" frameY="-311" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi right0002" x="2817" y="0" width="552" height="951" frameX="-450" frameY="-288" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi right0003" x="2817" y="951" width="520" height="944" frameX="-442" frameY="-295" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi up0000" x="2006" y="2897" width="661" height="848" frameX="-367" frameY="-392" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi up0001" x="3369" y="1824" width="590" height="897" frameX="-437" frameY="-343" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi up0002" x="823" y="1950" width="565" height="945" frameX="-462" frameY="-295" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="nembi up0003" x="515" y="983" width="564" height="966" frameX="-462" frameY="-274" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

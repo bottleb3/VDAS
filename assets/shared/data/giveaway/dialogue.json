@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Wow, that was way much more better than I expected it to be."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "You literally said \"dis, dis dis, vor-e, vor-e\" carried on by a few stomps and then went back to jibberish how is that any better?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "To be fair, the instrumental carried it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Fair point..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Honestly, that was kinda fun, but we do have to go back home though. I'll see yall hopefully!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "Or, you can still rap with them..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": " Yeah, I mean we got roughly an hour and a half left before we have to start the stream."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "We can make another one work!\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Coolswag!"
+		}
+	]
+}

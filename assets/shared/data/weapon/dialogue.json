@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "beepbapbobop",
+			"text": "Well it's been nice for both of you to rap against me, but pretty sure we gotta go over to Spritebam's house, so see yall!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Cya!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bye!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And just when the two partners were making their leave, they suddenly came across another couple."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A very \"harey\" one at that."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Aye Danny who're these little fellows?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Are these your new friends?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "Uhhhhhhh???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "We may aswell be!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh! Nice to see you two!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm Ginger and He's Chubble!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "flattered",
+			"text": "Well Chubble isn't his real name, but that's what I call him..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Awwww..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Aye what's with that micky phone of yours? You been singing?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhhh, yeah?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Alright, show me what you've got."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Alright?"
+		}
+	]
+}

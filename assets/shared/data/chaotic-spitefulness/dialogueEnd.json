@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"expression": "concerned",
+			"text": "Hey Boyfriend, how did that work?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "You somehow just changed my appearence with that song alone...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "confused",
+			"text": "I- didn't?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I'm confused as hell right now...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "concerned",
+			"text": "Oh? Hm.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "confused",
+			"text": "So how did that transformation thing happen?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wanred",
+			"text": "I'm only gonna tell you but only if you promise to keep this a secret.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "confused",
+			"text": "Ok, go on.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wanred",
+			"text": "There was this other realm that was basically like yours, but different.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "The grass was darker, the sky was darkish green, basically very grim and dry.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "We didn't mind it but disaster struck when this \"being\" came into place.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "The Army tried to defend everyone, but it tore threw that and corrupted a few people, including me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "It was that infectious that everyone thought I was gonna eat them up. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "Luckily for them however, the \"being\" somehow teleported the people who got infected here, in these woods and lies within underground...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "worried",
+			"text": "Just waiting to strike...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh shit, why can't I alert everyone?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wanred",
+			"text": "Because, you'll wake it up...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh, hm.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I wonder if it's possible to see what this \"being\" looks like.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "wanred",
+			"text": "Well from what I've heard, you'd have to go ask the angle known as \"Beauty\" to get you inside the cave.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "wanred",
+			"text": "There's no way to dig that far underground...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "concerned",
+			"text": "Plus, why would you wanna see something that will get you killed?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		},
+		{
+			"expression": "confused",
+			"text": "I feel like I can do what I done with my singing and just straight up kill the thing.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "concerned",
+			"text": "It's worth a shot...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical"
+		}
+	]
+}

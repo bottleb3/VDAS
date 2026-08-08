@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				400,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "fakenderifhewaslfyingwaooo idle"
+		},
+		{
+			"offsets": [
+				400,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fakenderifhewaslfyingwaooo left"
+		},
+		{
+			"offsets": [
+				400,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fakenderifhewaslfyingwaooo down"
+		},
+		{
+			"offsets": [
+				400,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fakenderifhewaslfyingwaooo up"
+		},
+		{
+			"offsets": [
+				400,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fakenderifhewaslfyingwaooo right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "stages/secret-shhhh/faker/fakenderifhewaslfyingwaooo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fakender",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		0,
+		55
+	],
+	"camera_position": [
+		-570,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

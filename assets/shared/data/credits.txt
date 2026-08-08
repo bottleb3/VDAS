@@ -1,0 +1,6 @@
+Development "team"
+bottle_b3::b3::almost everything::https://www.youtube.com/@bottle_b3/featured::0xFFFF0000
+Contributors
+amartistrandom::amartistrandom::drew the main menu background::https://x.com/AMartistrandom::0xFF220077
+bobgaming34::bobgaming::helped me out with some scripts and stuff thats so cool::https://x.com/BobGaming34::0xff0033
+daybreak::testai::composed jello and high effort's instrumental::0xff0033

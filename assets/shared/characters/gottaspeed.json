@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gottaspeed idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gottaspeed right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gottaspeed up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gottaspeed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gottaspeed down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/gottaspeed",
+	"position": [
+		90,
+		-20
+	],
+	"healthicon": "gottaspeed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-450,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

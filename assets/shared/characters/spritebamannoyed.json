@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spritebamannoyed idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spritebamannoyed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spritebamannoyed down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spritebamannoyed up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spritebamannoyed right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "stomp",
+			"fps": 24,
+			"name": "spritebamannoyed stomp",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/spritebamannoyed",
+	"position": [-390, -460],
+	"healthicon": "spritebam",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 147],
+	"camera_position": [-230, 290],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

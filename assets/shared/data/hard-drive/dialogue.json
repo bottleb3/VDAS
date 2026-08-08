@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "How are you still winning?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Let it go Jembi, just let them be!\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged 2",
+			"text": "ONE more..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "No, you'll tire yourself out.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh no, let him manage."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "Boyfriend, no."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged 2",
+			"text": "Aye, aye, let him do what he wants."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "Fine. But we do need to do shopping again because we don't have anything for the motel."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "Alright, give me your best shot!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "With pleasure..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "getting ready",
+			"text": "Come on, Spritebam, you're taking part in this aswell!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Finnneeeee..."
+		}
+	]
+}

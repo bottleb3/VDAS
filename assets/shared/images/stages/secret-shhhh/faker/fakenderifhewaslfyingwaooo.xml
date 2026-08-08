@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fakenderifhewaslfyingwaooo.png">
+<SubTexture name="fakenderifhewaslfyingwaooo down0000" x="2843" y="1388" width="801" height="461" frameX="-248" frameY="-515" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo down0001" x="2843" y="926" width="801" height="462" frameX="-248" frameY="-487" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo down0002" x="2843" y="0" width="801" height="463" frameX="-248" frameY="-464" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo down0003" x="2843" y="463" width="800" height="463" frameX="-248" frameY="-437" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo idle0000" x="716" y="1354" width="479" height="638" frameX="-432" frameY="-518" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo idle0001" x="1152" y="682" width="479" height="652" frameX="-432" frameY="-464" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo idle0002" x="673" y="682" width="479" height="665" frameX="-432" frameY="-410" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo idle0003" x="564" y="0" width="479" height="676" frameX="-432" frameY="-343" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo left0000" x="1856" y="1996" width="778" height="601" frameX="-262" frameY="-378" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo left0001" x="0" y="1354" width="716" height="642" frameX="-321" frameY="-360" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo left0002" x="0" y="682" width="673" height="672" frameX="-364" frameY="-348" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo left0003" x="0" y="0" width="564" height="682" frameX="-406" frameY="-344" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo right0000" x="1198" y="1996" width="658" height="602" frameX="-416" frameY="-396" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo right0001" x="0" y="1996" width="597" height="620" frameX="-430" frameY="-376" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo right0002" x="2318" y="0" width="525" height="631" frameX="-443" frameY="-363" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo right0003" x="1681" y="652" width="465" height="644" frameX="-455" frameY="-353" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo up0000" x="597" y="1996" width="601" height="616" frameX="-431" frameY="-256" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo up0001" x="1195" y="1354" width="611" height="633" frameX="-421" frameY="-284" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo up0002" x="1681" y="0" width="637" height="652" frameX="-395" frameY="-311" frameWidth="1334" frameHeight="1388" />
+<SubTexture name="fakenderifhewaslfyingwaooo up0003" x="1043" y="0" width="638" height="674" frameX="-394" frameY="-345" frameWidth="1334" frameHeight="1388" />
+</TextureAtlas>

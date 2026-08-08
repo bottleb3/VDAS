@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cementbi.png">
+<SubTexture name="cementbi down0000" x="0" y="2894" width="643" height="577" frameX="-192" frameY="-352" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi down0001" x="3046" y="0" width="623" height="612" frameX="-200" frameY="-318" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi down0002" x="2448" y="684" width="553" height="654" frameX="-237" frameY="-265" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi down0003" x="678" y="1513" width="474" height="698" frameX="-289" frameY="-206" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi idle0000" x="613" y="2215" width="675" height="669" frameX="-194" frameY="-382" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi idle0001" x="2448" y="0" width="598" height="684" frameX="-234" frameY="-339" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi idle0002" x="1743" y="729" width="507" height="726" frameX="-279" frameY="-276" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi idle0003" x="1141" y="776" width="410" height="729" frameX="-324" frameY="-224" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi left0000" x="1288" y="2215" width="727" height="658" frameX="-33" frameY="-239" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi left0001" x="0" y="1513" width="678" height="702" frameX="-58" frameY="-225" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi left0002" x="0" y="776" width="596" height="737" frameX="-131" frameY="-212" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi left0003" x="596" y="776" width="545" height="730" frameX="-197" frameY="-202" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi right0000" x="1743" y="0" width="705" height="729" frameX="-284" frameY="-268" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi right0001" x="0" y="0" width="687" height="776" frameX="-294" frameY="-238" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi right0002" x="687" y="0" width="589" height="759" frameX="-305" frameY="-206" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi right0003" x="1276" y="0" width="467" height="753" frameX="-346" frameY="-183" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi up0000" x="2015" y="2215" width="679" height="654" frameX="-172" frameY="-73" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi up0001" x="0" y="2215" width="613" height="679" frameX="-209" frameY="-100" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi up0002" x="1577" y="1513" width="523" height="692" frameX="-262" frameY="-131" frameWidth="991" frameHeight="1056" />
+<SubTexture name="cementbi up0003" x="1152" y="1513" width="425" height="693" frameX="-309" frameY="-184" frameWidth="991" frameHeight="1056" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toothpaste.png">
+<SubTexture name="toothpaste down0000" x="1941" y="2586" width="437" height="646" frameX="-413" frameY="-422" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste down0001" x="2653" y="1535" width="382" height="725" frameX="-421" frameY="-351" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste down0002" x="1243" y="1754" width="381" height="807" frameX="-422" frameY="-288" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste down0003" x="385" y="0" width="386" height="886" frameX="-417" frameY="-234" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste idle0000" x="0" y="2586" width="965" height="745" frameX="-165" frameY="-402" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste idle0001" x="2653" y="0" width="796" height="788" frameX="-211" frameY="-331" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste idle0002" x="1624" y="1754" width="659" height="797" frameX="-260" frameY="-281" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste idle0003" x="2127" y="0" width="526" height="837" frameX="-323" frameY="-211" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste left0000" x="2653" y="788" width="693" height="747" frameX="-9" frameY="-264" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste left0001" x="563" y="1754" width="680" height="821" frameX="-75" frameY="-238" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste left0002" x="1174" y="0" width="573" height="865" frameX="-176" frameY="-209" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste left0003" x="2127" y="837" width="470" height="836" frameX="-276" frameY="-211" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste right0000" x="965" y="2586" width="976" height="729" frameX="-164" frameY="-206" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste right0001" x="704" y="902" width="850" height="843" frameX="-232" frameY="-204" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste right0002" x="0" y="902" width="704" height="852" frameX="-290" frameY="-230" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste right0003" x="0" y="1754" width="563" height="832" frameX="-337" frameY="-236" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste up0000" x="1554" y="902" width="410" height="839" frameX="-400" frameY="-37" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste up0001" x="771" y="0" width="403" height="876" frameX="-400" frameY="-69" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste up0002" x="0" y="0" width="385" height="902" frameX="-400" frameY="-117" frameWidth="1205" frameHeight="1336" />
+<SubTexture name="toothpaste up0003" x="1747" y="0" width="380" height="857" frameX="-400" frameY="-200" frameWidth="1205" frameHeight="1336" />
+</TextureAtlas>

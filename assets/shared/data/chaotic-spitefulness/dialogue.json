@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Oh, hey Radical, what are you doing in the woods, alone?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "Oh uh- Hey, listen- I-",
+			"boxState": "normal",
+			"portrait": "radical",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Are you alright?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "Uhh yeah I'm fine j- jus-",
+			"boxState": "normal",
+			"portrait": "radical",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Uhh-",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "Get out of here, PLEASE...\r",
+			"boxState": "normal",
+			"portrait": "radical",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Oh shi-",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		}
+	]
+}

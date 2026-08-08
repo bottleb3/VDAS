@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sam idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sam right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sam up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sam left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sam down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/sam",
+	"position": [
+		-210,
+		60
+	],
+	"healthicon": "sam",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		80,
+		175
+	],
+	"camera_position": [
+		-110,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

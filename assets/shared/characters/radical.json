@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "radical idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "radical right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "radical up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "radical left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "radical down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/radical",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "Radical",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-380,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		50,
+		-50
+	],
+	"no_antialiasing": true,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "radai stare",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "radai stare",
+			"anim": "stare",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "radai"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "the house",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "danny",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hoodie",
+			"Danny",
+			[
+				255,
+				225,
+				0
+			]
+		],
+		[
+			"coolness",
+			"Danny",
+			[
+				255,
+				225,
+				0
+			]
+		],
+		[
+			"stand off",
+			"Danny",
+			[
+				255,
+				225,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "danny week",
+	"hiddenUntilUnlocked": true
+}

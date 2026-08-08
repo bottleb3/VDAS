@@ -1,0 +1,50 @@
+{
+	"storyName": "the parking lot",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "jembi",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"snarkism",
+			"Jembi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"technological",
+			"Jembi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"hard drive",
+			"Jembi",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "jembi week"
+}

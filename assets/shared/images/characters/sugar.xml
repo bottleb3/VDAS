@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sugar.png">
+<SubTexture name="sugar down0000" x="2837" y="690" width="483" height="685" frameX="-288" frameY="-215" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar down0001" x="2248" y="1393" width="483" height="693" frameX="-288" frameY="-207" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar down0002" x="518" y="1452" width="483" height="702" frameX="-288" frameY="-198" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar down0003" x="492" y="740" width="483" height="711" frameX="-288" frameY="-189" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar idle0000" x="2837" y="0" width="491" height="690" frameX="-404" frameY="-211" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar idle0001" x="2248" y="697" width="468" height="696" frameX="-411" frameY="-205" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar idle0002" x="1809" y="0" width="439" height="706" frameX="-424" frameY="-195" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar idle0003" x="1420" y="0" width="389" height="712" frameX="-450" frameY="-189" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar left0000" x="1450" y="1452" width="549" height="697" frameX="-159" frameY="-215" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar left0001" x="0" y="1452" width="518" height="703" frameX="-192" frameY="-205" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar left0002" x="975" y="740" width="503" height="709" frameX="-216" frameY="-195" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar left0003" x="0" y="740" width="492" height="712" frameX="-277" frameY="-189" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar right0000" x="647" y="2155" width="739" height="675" frameX="-370" frameY="-225" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar right0001" x="0" y="2155" width="647" height="687" frameX="-391" frameY="-213" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar right0002" x="2248" y="0" width="589" height="697" frameX="-420" frameY="-203" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar right0003" x="1001" y="1452" width="449" height="701" frameX="-484" frameY="-199" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar up0000" x="0" y="0" width="355" height="740" frameX="-471" frameY="-161" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar up0001" x="355" y="0" width="355" height="730" frameX="-471" frameY="-171" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar up0002" x="710" y="0" width="355" height="727" frameX="-471" frameY="-174" frameWidth="1239" frameHeight="1149" />
+<SubTexture name="sugar up0003" x="1065" y="0" width="355" height="722" frameX="-471" frameY="-179" frameWidth="1239" frameHeight="1149" />
+</TextureAtlas>

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [340, 30],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gento idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [340, 30],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gento right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [340, 30],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gento up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [340, 30],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gento left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [340, 30],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gento down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/gento",
+	"position": [50, 0],
+	"healthicon": "Gento",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [-350, 30],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

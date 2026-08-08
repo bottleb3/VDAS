@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hey this \"rapping\" thing isn't bad at all..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hm?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "(Please don't request to play another song my ass is getting hurt from bouncing like this all day)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Mind if I play another song?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "Sure!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "fml",
+			"text": "..."
+		}
+	]
+}

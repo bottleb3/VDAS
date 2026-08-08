@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bigbadbarly.png">
+<SubTexture name="bigbadbarly down0000" x="650" y="373" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly down0001" x="0" y="734" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly down0002" x="650" y="734" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly down0003" x="1300" y="0" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly idle0000" x="1300" y="351" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly left0000" x="1300" y="702" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly left0001" x="0" y="1085" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly left0002" x="650" y="1085" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly left0003" x="1300" y="1085" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly right0000" x="0" y="1436" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly right0001" x="650" y="1436" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly right0002" x="1300" y="1436" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly right0003" x="1950" y="0" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly up0000" x="0" y="0" width="650" height="373" frameX="-157" frameY="-387" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly up0001" x="650" y="0" width="650" height="363" frameX="-157" frameY="-397" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly up0002" x="0" y="373" width="650" height="361" frameX="-157" frameY="-399" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bigbadbarly up0003" x="1950" y="351" width="650" height="351" frameX="-157" frameY="-409" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

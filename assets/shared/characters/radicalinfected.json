@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "radai idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "radai left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "radai down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "radai up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "radai right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "stages/secret-shhhh/chaotic-spitefulness/radai",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "radai",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		0,
+		0
+	],
+	"camera_position": [
+		-470,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

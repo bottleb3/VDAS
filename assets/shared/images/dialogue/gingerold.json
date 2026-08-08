@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		130
+	],
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "blushed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ginger blushed",
+			"idle_name": "ginger blushed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"idle_offsets": [
+				-20,
+				0
+			],
+			"loop_name": "ginger scared",
+			"idle_name": "ginger scared"
+		}
+	],
+	"image": "ginger"
+}

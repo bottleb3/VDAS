@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kirbydanny.png">
+<SubTexture name="kirbydanny down0000" x="287" y="619" width="228" height="184" frameX="-135" frameY="-172" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny down0001" x="515" y="619" width="228" height="184" frameX="-135" frameY="-169" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny down0002" x="743" y="619" width="228" height="184" frameX="-135" frameY="-167" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny down0003" x="0" y="807" width="228" height="184" frameX="-135" frameY="-164" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny idle0000" x="0" y="619" width="287" height="188" frameX="-135" frameY="-159" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny left0000" x="273" y="0" width="219" height="210" frameX="-113" frameY="-140" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny left0001" x="0" y="214" width="234" height="208" frameX="-118" frameY="-142" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny left0002" x="234" y="214" width="249" height="204" frameX="-121" frameY="-145" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny left0003" x="508" y="422" width="259" height="195" frameX="-127" frameY="-152" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny right0000" x="0" y="0" width="273" height="214" frameX="-165" frameY="-144" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny right0001" x="492" y="0" width="292" height="201" frameX="-159" frameY="-147" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny right0002" x="492" y="201" width="285" height="199" frameX="-158" frameY="-149" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny right0003" x="784" y="0" width="279" height="196" frameX="-151" frameY="-152" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny up0000" x="0" y="422" width="253" height="197" frameX="-135" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny up0001" x="253" y="422" width="255" height="197" frameX="-135" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny up0002" x="784" y="196" width="255" height="196" frameX="-135" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="kirbydanny up0003" x="784" y="392" width="248" height="196" frameX="-135" frameY="-150" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

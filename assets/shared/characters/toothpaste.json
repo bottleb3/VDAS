@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "toothpaste idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				300
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "toothpaste left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "toothpaste down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "toothpaste up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				300
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "toothpaste right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/toothpaste",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "toothpaste",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		233
+	],
+	"camera_position": [
+		-520,
+		-360
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

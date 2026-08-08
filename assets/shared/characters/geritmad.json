@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "geritmadohnoes idle"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "geritmadohnoes right"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "geritmadohnoes up"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "geritmadohnoes left"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "geritmadohnoes down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/geritmadohnoes",
+	"position": [
+		60,
+		-60
+	],
+	"healthicon": "gerit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		60,
+		75
+	],
+	"camera_position": [
+		-450,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

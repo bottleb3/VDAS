@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [580, 340],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "meldo idle"
+		},
+		{
+			"offsets": [580, 340],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "meldo left"
+		},
+		{
+			"offsets": [580, 340],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "meldo down"
+		},
+		{
+			"offsets": [580, 340],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "meldo up"
+		},
+		{
+			"offsets": [580, 340],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "meldo right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/meldo",
+	"position": [0, 40],
+	"healthicon": "Meldo",
+	"flip_x": false,
+	"healthbar_colors": [249, 255, 38],
+	"camera_position": [-755, -249],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

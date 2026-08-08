@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jembi_playable idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jembi_playable down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jembi_playable up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "jembi_playable missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "jembi_playable missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "jembi_playable missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "jembi_playable missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jembi_playable left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [395, 430],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jembi_playable right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/jembi_playable",
+	"position": [0, 350],
+	"healthicon": "Jembi",
+	"flip_x": false,
+	"healthbar_colors": [0, 255, 0],
+	"camera_position": [450, -360],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

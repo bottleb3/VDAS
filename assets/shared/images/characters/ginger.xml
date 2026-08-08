@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ginger.png">
+<SubTexture name="ginger down0000" x="2641" y="0" width="412" height="697" frameX="-257" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger down0001" x="2163" y="1490" width="412" height="703" frameX="-257" frameY="-161" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger down0002" x="1751" y="1490" width="412" height="709" frameX="-257" frameY="-155" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger down0003" x="936" y="1490" width="412" height="713" frameX="-257" frameY="-151" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger idle0000" x="1348" y="1490" width="403" height="713" frameX="-250" frameY="-153" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger idle0001" x="1758" y="721" width="381" height="716" frameX="-259" frameY="-150" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger idle0002" x="336" y="760" width="357" height="725" frameX="-269" frameY="-141" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger idle0003" x="0" y="760" width="336" height="730" frameX="-281" frameY="-136" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger left0000" x="463" y="1490" width="473" height="716" frameX="-163" frameY="-148" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger left0001" x="0" y="1490" width="463" height="717" frameX="-170" frameY="-147" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger left0002" x="2190" y="0" width="451" height="719" frameX="-179" frameY="-145" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger left0003" x="1758" y="0" width="432" height="721" frameX="-195" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger right0000" x="2190" y="719" width="334" height="719" frameX="-324" frameY="-146" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger right0001" x="693" y="760" width="331" height="723" frameX="-317" frameY="-142" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger right0002" x="1024" y="760" width="322" height="723" frameX="-307" frameY="-142" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger right0003" x="1346" y="760" width="332" height="723" frameX="-291" frameY="-142" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger up0000" x="0" y="0" width="456" height="760" frameX="-164" frameY="-113" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger up0001" x="456" y="0" width="445" height="755" frameX="-175" frameY="-116" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger up0002" x="901" y="0" width="438" height="749" frameX="-182" frameY="-120" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="ginger up0003" x="1339" y="0" width="419" height="738" frameX="-201" frameY="-129" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

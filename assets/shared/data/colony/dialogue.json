@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "Yeah I didn't know what I was doi-\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Sweetie-pops you did well better than what he did."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "Thanks?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ok is he like this all the time?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "He means well but he doesn't know when to take it too far..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "agressive",
+			"text": "Shall we give it another go?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good. This time..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "I'll make this rap battle bang harder than I bang my wife..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ginger",
+			"boxState": "normal",
+			"expression": "concerened",
+			"text": "UHHHHHHHHHHHHH-"
+		}
+	]
+}

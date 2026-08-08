@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "My god that was far too long."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "Hey, what happened to that \"Chubble guy?\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question",
+			"text": "I think he just ran out the door after you interupted his part..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "realization",
+			"text": "I mean I would give you a look but honestly, I kinda find him annoying."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "Oh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Sucks to be him, am I right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well, do y'all wanna be in the stream or?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "Ehhh, as much as I would love to, I don't want my face to be in the stream."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question",
+			"text": "Yeah I don't want people at school saying that their teacher was on a youtube stream."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Fair enough."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boyfriend, you still wanna be apart of this, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah, I mean I came here for a reason so why not?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Great! Let's go!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "beepbapbobop",
+			"text": "Alright!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And so, our protagonoists have reached the end of their day. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Spritebam, Jembi and Boyfriend got to do the stream, Danny kept to himself whilst Radical kept practicing his skateboard tricks."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And Chubble kept practising his music skills whilst Ginger listened."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Never cut off someone when they're about to tell someone else something. It will cause alot of hassle for them."
+		}
+	]
+}

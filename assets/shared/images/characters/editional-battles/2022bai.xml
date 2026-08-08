@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="2022bai.png">
+<SubTexture name="2022bai down0000" x="1742" y="3147" width="860" height="936" frameX="-123" frameY="-287" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai down0001" x="953" y="3147" width="789" height="967" frameX="-156" frameY="-256" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai down0002" x="3296" y="1960" width="750" height="970" frameX="-186" frameY="-252" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai down0003" x="1698" y="2137" width="707" height="983" frameX="-210" frameY="-237" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai idle0000" x="1891" y="1121" width="554" height="962" frameX="-294" frameY="-257" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai idle0001" x="3296" y="982" width="554" height="978" frameX="-291" frameY="-241" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai idle0002" x="2452" y="1011" width="554" height="1006" frameX="-285" frameY="-213" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai idle0003" x="1337" y="1121" width="554" height="1014" frameX="-273" frameY="-205" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai left0000" x="0" y="3147" width="953" height="973" frameX="-47" frameY="-272" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai left0001" x="3296" y="0" width="892" height="982" frameX="-68" frameY="-258" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai left0002" x="925" y="2137" width="773" height="993" frameX="-106" frameY="-244" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai left0003" x="2405" y="2137" width="696" height="983" frameX="-122" frameY="-244" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai right0000" x="0" y="2137" width="925" height="1010" frameX="-190" frameY="-220" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai right0001" x="2452" y="0" width="844" height="1011" frameX="-225" frameY="-219" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai right0002" x="0" y="1121" width="714" height="1016" frameX="-285" frameY="-216" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai right0003" x="714" y="1121" width="623" height="1015" frameX="-306" frameY="-214" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai up0000" x="0" y="0" width="655" height="1121" frameX="-284" frameY="-98" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai up0001" x="655" y="0" width="616" height="1095" frameX="-306" frameY="-124" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai up0002" x="1271" y="0" width="589" height="1077" frameX="-325" frameY="-142" frameWidth="1157" frameHeight="1419" />
+<SubTexture name="2022bai up0003" x="1860" y="0" width="592" height="1051" frameX="-307" frameY="-168" frameWidth="1157" frameHeight="1419" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fakendertrue.png">
+<SubTexture name="fakendertrue down0000" x="3823" y="0" width="826" height="1133" frameX="-334" frameY="-237" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue down0001" x="2940" y="2337" width="815" height="1142" frameX="-339" frameY="-228" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue down0002" x="2221" y="1178" width="824" height="1154" frameX="-333" frameY="-216" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue down0003" x="748" y="0" width="824" height="1165" frameX="-337" frameY="-205" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue idle0000" x="0" y="0" width="748" height="1178" frameX="-398" frameY="-192" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue idle0001" x="0" y="0" width="748" height="1178" frameX="-398" frameY="-192" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue idle0002" x="0" y="0" width="748" height="1178" frameX="-398" frameY="-192" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue idle0003" x="0" y="0" width="748" height="1178" frameX="-398" frameY="-192" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue left0000" x="1924" y="2337" width="1016" height="1144" frameX="-256" frameY="-226" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue left0001" x="935" y="2337" width="989" height="1151" frameX="-258" frameY="-219" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue left0002" x="0" y="2337" width="935" height="1153" frameX="-263" frameY="-217" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue left0003" x="1418" y="1178" width="803" height="1157" frameX="-351" frameY="-213" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue right0000" x="3100" y="0" width="723" height="1154" frameX="-377" frameY="-216" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue right0001" x="0" y="1178" width="731" height="1159" frameX="-362" frameY="-211" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue right0002" x="1572" y="0" width="765" height="1162" frameX="-356" frameY="-208" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue right0003" x="2337" y="0" width="763" height="1160" frameX="-369" frameY="-210" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue up0000" x="3823" y="2218" width="680" height="1020" frameX="-427" frameY="-350" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue up0001" x="3823" y="1133" width="683" height="1085" frameX="-433" frameY="-285" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue up0002" x="3100" y="1154" width="685" height="1143" frameX="-432" frameY="-227" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="fakendertrue up0003" x="731" y="1178" width="687" height="1158" frameX="-431" frameY="-212" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

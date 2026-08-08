@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cabnom.png">
+<SubTexture name="cabnom down0000" x="0" y="2008" width="547" height="597" frameX="-208" frameY="-291" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom down0001" x="2381" y="0" width="472" height="625" frameX="-252" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom down0002" x="0" y="1355" width="373" height="653" frameX="-301" frameY="-221" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom down0003" x="1531" y="0" width="305" height="666" frameX="-329" frameY="-206" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom idle0000" x="1836" y="657" width="287" height="656" frameX="-355" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom idle0001" x="1531" y="666" width="286" height="665" frameX="-356" frameY="-207" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom idle0002" x="0" y="683" width="288" height="672" frameX="-356" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom idle0003" x="426" y="0" width="287" height="677" frameX="-357" frameY="-195" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom left0000" x="1836" y="0" width="545" height="657" frameX="-170" frameY="-219" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom left0001" x="288" y="683" width="541" height="672" frameX="-166" frameY="-205" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom left0002" x="713" y="0" width="503" height="676" frameX="-204" frameY="-201" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom left0003" x="0" y="0" width="426" height="683" frameX="-240" frameY="-192" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom right0000" x="547" y="2008" width="819" height="585" frameX="-129" frameY="-289" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom right0001" x="1277" y="1355" width="672" height="629" frameX="-214" frameY="-258" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom right0002" x="373" y="1355" width="587" height="649" frameX="-255" frameY="-228" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom right0003" x="829" y="683" width="503" height="670" frameX="-279" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom up0000" x="2381" y="1247" width="317" height="595" frameX="-328" frameY="-277" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom up0001" x="2381" y="625" width="317" height="622" frameX="-328" frameY="-250" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom up0002" x="960" y="1355" width="317" height="638" frameX="-328" frameY="-234" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="cabnom up0003" x="1216" y="0" width="315" height="675" frameX="-329" frameY="-197" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

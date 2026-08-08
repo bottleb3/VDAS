@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Alright, sitting back down. Don't want the legs to get worn out.\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Fair honestly. That looked like it hurt."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Yeah, it did."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just then, some kid pulled up to the scene on a weird looking skateboard."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Aye Mr. Danny, what's up?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Oh my god he wasn't exaderating...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "chilled out",
+			"text": "Oh, hey Radical. Not much but \"rapping\" against these fellas."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Cool, mind if I try?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Go on!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "radical",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Thanks!"
+		}
+	]
+}

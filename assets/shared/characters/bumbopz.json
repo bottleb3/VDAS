@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bumbopz idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bumbopz left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bumbopz down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bumbopz up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bumbopz right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bumbopz",
+	"position": [
+		100,
+		50
+	],
+	"healthicon": "bumbopz",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		173,
+		255
+	],
+	"camera_position": [
+		-390,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spritebamuhoh.png">
+<SubTexture name="spritebamuhoh down0000" x="2747" y="1569" width="434" height="763" frameX="-514" frameY="-506" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh down0001" x="453" y="1630" width="434" height="797" frameX="-513" frameY="-472" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh down0002" x="412" y="823" width="433" height="806" frameX="-513" frameY="-463" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh down0003" x="0" y="0" width="432" height="823" frameX="-513" frameY="-446" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh idle0000" x="2747" y="788" width="416" height="781" frameX="-532" frameY="-487" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh idle0001" x="1319" y="1630" width="433" height="794" frameX="-523" frameY="-474" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh idle0002" x="0" y="1630" width="453" height="800" frameX="-513" frameY="-468" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh idle0003" x="845" y="823" width="458" height="806" frameX="-508" frameY="-462" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh left0000" x="0" y="2430" width="573" height="787" frameX="-450" frameY="-481" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh left0001" x="1725" y="0" width="521" height="805" frameX="-471" frameY="-463" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh left0002" x="839" y="0" width="468" height="815" frameX="-494" frameY="-453" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh left0003" x="432" y="0" width="407" height="818" frameX="-528" frameY="-450" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh right0000" x="1099" y="2430" width="541" height="778" frameX="-492" frameY="-489" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh right0001" x="2747" y="0" width="475" height="788" frameX="-529" frameY="-479" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh right0002" x="887" y="1630" width="432" height="795" frameX="-545" frameY="-472" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh right0003" x="1307" y="0" width="418" height="809" frameX="-565" frameY="-458" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh stomp0000" x="573" y="2430" width="526" height="781" frameX="-491" frameY="-487" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh stomp0001" x="2214" y="1630" width="510" height="789" frameX="-494" frameY="-478" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh stomp0002" x="2246" y="0" width="501" height="801" frameX="-492" frameY="-466" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh stomp0003" x="1725" y="805" width="488" height="805" frameX="-494" frameY="-462" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh up0000" x="1640" y="2430" width="496" height="778" frameX="-496" frameY="-489" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh up0001" x="1752" y="1630" width="462" height="792" frameX="-530" frameY="-475" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh up0002" x="2246" y="801" width="434" height="801" frameX="-562" frameY="-466" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamuhoh up0003" x="0" y="823" width="412" height="807" frameX="-584" frameY="-462" frameWidth="1554" frameHeight="1554" />
+</TextureAtlas>

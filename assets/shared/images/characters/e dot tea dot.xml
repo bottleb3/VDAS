@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="e dot tea dot.png">
+<SubTexture name="e dot tea dot down0000" x="0" y="1444" width="342" height="279" frameX="-307" frameY="-454" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot down0001" x="1449" y="309" width="328" height="307" frameX="-314" frameY="-419" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot down0002" x="1449" y="0" width="328" height="309" frameX="-314" frameY="-417" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot down0003" x="593" y="1111" width="328" height="332" frameX="-315" frameY="-393" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot idle0000" x="1137" y="342" width="296" height="340" frameX="-306" frameY="-358" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot idle0001" x="1137" y="682" width="296" height="336" frameX="-304" frameY="-362" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot idle0002" x="0" y="1111" width="296" height="333" frameX="-304" frameY="-365" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot idle0003" x="296" y="1111" width="297" height="333" frameX="-302" frameY="-365" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot left0000" x="241" y="0" width="349" height="386" frameX="-351" frameY="-334" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot left0001" x="315" y="388" width="332" height="360" frameX="-321" frameY="-367" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot left0002" x="311" y="752" width="325" height="345" frameX="-317" frameY="-383" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot left0003" x="1137" y="0" width="312" height="342" frameX="-317" frameY="-393" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot right0000" x="921" y="1111" width="282" height="326" frameX="-338" frameY="-366" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot right0001" x="636" y="752" width="269" height="343" frameX="-332" frameY="-360" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot right0002" x="590" y="0" width="252" height="382" frameX="-321" frameY="-331" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot right0003" x="0" y="0" width="241" height="388" frameX="-320" frameY="-325" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot up0000" x="0" y="752" width="311" height="359" frameX="-321" frameY="-264" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot up0001" x="0" y="388" width="315" height="364" frameX="-316" frameY="-290" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot up0002" x="842" y="0" width="295" height="360" frameX="-332" frameY="-343" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="e dot tea dot up0003" x="842" y="360" width="294" height="351" frameX="-329" frameY="-384" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dannystandoff.png">
+<SubTexture name="dannystandoff down0000" x="2731" y="1921" width="559" height="631" frameX="-333" frameY="-206" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff down0001" x="2731" y="1285" width="553" height="636" frameX="-333" frameY="-201" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff down0002" x="2731" y="643" width="536" height="642" frameX="-333" frameY="-195" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff down0003" x="2199" y="0" width="532" height="646" frameX="-333" frameY="-191" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff idle0000" x="0" y="656" width="564" height="650" frameX="-333" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff idle0001" x="564" y="656" width="563" height="650" frameX="-333" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff idle0002" x="1638" y="0" width="561" height="650" frameX="-333" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff idle0003" x="1638" y="650" width="560" height="650" frameX="-333" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff left0000" x="1145" y="1956" width="535" height="644" frameX="-333" frameY="-193" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff left0001" x="612" y="1956" width="533" height="645" frameX="-333" frameY="-192" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff left0002" x="1665" y="1306" width="530" height="647" frameX="-333" frameY="-190" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff left0003" x="1134" y="1306" width="531" height="648" frameX="-333" frameY="-189" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff right0000" x="2731" y="0" width="639" height="643" frameX="-333" frameY="-194" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff right0001" x="1680" y="1956" width="630" height="644" frameX="-333" frameY="-193" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff right0002" x="0" y="1956" width="612" height="646" frameX="-333" frameY="-191" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff right0003" x="0" y="1306" width="584" height="650" frameX="-333" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff up0000" x="0" y="0" width="543" height="656" frameX="-333" frameY="-181" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff up0001" x="543" y="0" width="547" height="653" frameX="-333" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff up0002" x="1090" y="0" width="548" height="651" frameX="-333" frameY="-186" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannystandoff up0003" x="584" y="1306" width="550" height="650" frameX="-333" frameY="-187" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

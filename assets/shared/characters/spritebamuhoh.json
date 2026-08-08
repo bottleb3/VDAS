@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [220, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spritebamuhoh idle"
+		},
+		{
+			"offsets": [220, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spritebamuhoh left"
+		},
+		{
+			"offsets": [220, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spritebamuhoh down"
+		},
+		{
+			"offsets": [220, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spritebamuhoh up"
+		},
+		{
+			"offsets": [220, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spritebamuhoh right"
+		},
+		{
+			"offsets": [220, -40],
+			"loop": false,
+			"fps": 24,
+			"anim": "stomp",
+			"indices": [],
+			"name": "spritebamuhoh stomp"
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "spritebam missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "spritebam missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "spritebam missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, -40],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "spritebam missdown",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/spritebamuhoh",
+	"position": [-390, -460],
+	"healthicon": "spritebam",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 147],
+	"camera_position": [-230, 290],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

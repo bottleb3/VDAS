@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"expression": "challenge",
+			"text": "The year was 2022 and Guane Avenue was at its busiest time of the year!",
+			"boxState": "normal",
+			"portrait": "narriator",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Everyone was out getting items for themselves to bring home at the local Quick and Grab store in time for Summer break.",
+			"boxState": "normal",
+			"portrait": "narriator",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "challenge",
+			"text": "However, we will focus on two customers, or should I say, four?",
+			"boxState": "normal",
+			"portrait": "narriator",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Alright Jembi, just a few more packs and then we'll be off now!",
+			"boxState": "normal",
+			"portrait": "spritebam",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "exausted",
+			"text": "Yeah I know, I'm grabbing as many as I can hold!",
+			"boxState": "normal",
+			"portrait": "jembi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "You don't look it, silly!",
+			"boxState": "normal",
+			"portrait": "spritebam",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "exausted",
+			"text": "Shussssshhhh nobody caressss...",
+			"boxState": "normal",
+			"portrait": "jembi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Suddenly, a distant conversation can be heard next isle...",
+			"boxState": "normal",
+			"portrait": "narriator",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "embarrased",
+			"text": "Yeah I still don't get why you would want to rap some stran-",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fml",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "challenged",
+			"text": "Aye, aren't you the blue guy from that one rhythym game?",
+			"boxState": "normal",
+			"portrait": "jembi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "beepbapbobop",
+			"text": "Why yes I am!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "ow as you can see here, boyfriend doesn't want to move on. Instead, I'll let you figure out what happens next...",
+			"boxState": "normal",
+			"portrait": "narriator",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fml",
+			"text": "Babe, no. We were just talking about this...\r",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Aw but come on! If we keep rapping other people, they might just drop a small update for our game!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fml",
+			"text": "Honey, I don't care on what they do with that little funkin' game of theirs.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fml",
+			"text": "For all I know, they could just cancel the game and I'd be happy as ever!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "challenge",
+			"text": "Come on what's so bad about it?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "angry",
+			"text": "See? You don't understand how embarrassing it is seeing my family portrayed as the bad guys!\r",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fml",
+			"text": "Like just because you agreed, doesn't mean that me and my family have to be in the game aswell.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Wait? So actually, you're the guy from that funkin game that I suppose?",
+			"boxState": "normal",
+			"portrait": "spritebam",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "challenge",
+			"text": "Yep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "I'm kinda interested on how my singing skills are like honestly. Like I tried before but I couldn't get myself to like it.\r\n",
+			"boxState": "normal",
+			"portrait": "spritebam",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "challenged",
+			"text": "I wonder why.",
+			"boxState": "normal",
+			"portrait": "jembi",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "embarrased",
+			"text": "Well don't be recording anything. I don't want my image to get involved with this in real life.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "I'll make sure of it!",
+			"boxState": "normal",
+			"portrait": "spritebam",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "relaxed",
+			"text": "Sure...",
+			"boxState": "normal",
+			"portrait": "jembi",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

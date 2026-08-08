@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jembi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jembi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jembi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jembi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-320
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jembi down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/devinated/jembi",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "devinatejembi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-220,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

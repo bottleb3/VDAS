@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="girlfriendfnf.png">
+<SubTexture name="girlfriendfnf left0000" x="945" y="1504" width="1025" height="729" frameX="-71" frameY="-303" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf left0001" x="0" y="1504" width="945" height="744" frameX="-111" frameY="-288" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf left0002" x="0" y="0" width="945" height="754" frameX="-111" frameY="-278" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf left0003" x="945" y="0" width="911" height="750" frameX="-128" frameY="-282" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf right0000" x="0" y="2248" width="983" height="692" frameX="-92" frameY="-340" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf right0001" x="2767" y="0" width="943" height="726" frameX="-112" frameY="-306" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf right0002" x="1856" y="750" width="911" height="745" frameX="-128" frameY="-287" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf right0003" x="945" y="0" width="911" height="750" frameX="-128" frameY="-282" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf wompwomp0000" x="0" y="754" width="812" height="750" frameX="-178" frameY="-282" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf wompwomp0001" x="812" y="754" width="889" height="750" frameX="-139" frameY="-282" frameWidth="1143" frameHeight="1143" />
+<SubTexture name="girlfriendfnf wompwomp0002" x="1856" y="0" width="911" height="750" frameX="-128" frameY="-282" frameWidth="1143" frameHeight="1143" />
+</TextureAtlas>

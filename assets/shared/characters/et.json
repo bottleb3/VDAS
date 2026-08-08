@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [349, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "e dot tea dot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [319, 10],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "e dot tea dot right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [359, 40],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "e dot tea dot up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [369, 40],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "e dot tea dot left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [349, 29],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "e dot tea dot down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/e dot tea dot",
+	"position": [50, 0],
+	"healthicon": "ET",
+	"flip_x": false,
+	"healthbar_colors": [150, 170, 85],
+	"camera_position": [-590, -70],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

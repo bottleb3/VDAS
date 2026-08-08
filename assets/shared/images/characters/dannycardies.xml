@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dannycardies.png">
+<SubTexture name="dannycardies deadconfirm0000" x="0" y="0" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0001" x="0" y="409" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0002" x="863" y="0" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0003" x="863" y="409" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0004" x="0" y="818" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0005" x="863" y="818" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0006" x="0" y="1227" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0007" x="863" y="1227" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadconfirm0008" x="863" y="409" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0000" x="1726" y="0" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0001" x="1726" y="409" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0002" x="1726" y="818" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0003" x="1726" y="1227" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0004" x="0" y="1636" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0005" x="863" y="1636" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0006" x="1726" y="1636" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0007" x="0" y="2045" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies dies0008" x="863" y="2045" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="dannycardies deadloop0000" x="863" y="409" width="863" height="409" frameX="-80" frameY="-295" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

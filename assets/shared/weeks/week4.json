@@ -1,0 +1,50 @@
+{
+	"storyName": "the house, again",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "radical",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"skateboarding",
+			"Radical",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"pizzathon",
+			"Radical",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"parkour",
+			"Radical",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

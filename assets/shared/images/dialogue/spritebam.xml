@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spritebam.png">
+<SubTexture name="spritebam angry0000" x="175" y="0" width="179" height="231" frameX="-51" frameY="-25" frameWidth="256" frameHeight="256" />
+<SubTexture name="spritebam confused0000" x="354" y="0" width="182" height="231" frameX="-31" frameY="-25" frameWidth="256" frameHeight="256" />
+<SubTexture name="spritebam exausted0000" x="0" y="236" width="166" height="231" frameX="-55" frameY="-25" frameWidth="256" frameHeight="256" />
+<SubTexture name="spritebam excited0000" x="166" y="236" width="179" height="231" frameX="-51" frameY="-25" frameWidth="256" frameHeight="256" />
+<SubTexture name="spritebam happy0000" x="0" y="0" width="175" height="236" frameX="-40" frameY="-20" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chubble idle"
+		},
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chubble down"
+		},
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chubble up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "chubble right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chubble left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/chubble",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Chubble",
+	"flip_x": true,
+	"healthbar_colors": [
+		170,
+		130,
+		255
+	],
+	"camera_position": [
+		-530,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

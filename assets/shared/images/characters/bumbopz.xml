@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bumbopz.png">
+<SubTexture name="bumbopz down0000" x="1933" y="517" width="315" height="508" frameX="-325" frameY="-216" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz down0001" x="0" y="1126" width="301" height="532" frameX="-332" frameY="-192" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz down0002" x="1067" y="568" width="322" height="546" frameX="-322" frameY="-178" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz down0003" x="347" y="0" width="379" height="567" frameX="-292" frameY="-157" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz idle0000" x="357" y="568" width="362" height="556" frameX="-304" frameY="-169" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz idle0001" x="0" y="568" width="357" height="558" frameX="-304" frameY="-167" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz idle0002" x="1110" y="0" width="351" height="561" frameX="-304" frameY="-164" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz idle0003" x="0" y="0" width="347" height="568" frameX="-305" frameY="-157" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz left0000" x="311" y="1658" width="565" height="456" frameX="-43" frameY="-280" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz left0001" x="1933" y="1025" width="517" height="507" frameX="-116" frameY="-218" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz left0002" x="301" y="1126" width="463" height="526" frameX="-160" frameY="-199" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz left0003" x="1461" y="542" width="455" height="539" frameX="-156" frameY="-186" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz right0000" x="1933" y="0" width="600" height="517" frameX="-239" frameY="-222" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz right0001" x="764" y="1126" width="533" height="526" frameX="-273" frameY="-209" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz right0002" x="1461" y="0" width="472" height="542" frameX="-291" frameY="-190" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz right0003" x="726" y="0" width="384" height="566" frameX="-304" frameY="-161" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz up0000" x="1624" y="1126" width="293" height="369" frameX="-345" frameY="-355" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz up0001" x="0" y="1658" width="311" height="492" frameX="-330" frameY="-232" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz up0002" x="1297" y="1126" width="327" height="526" frameX="-315" frameY="-198" frameWidth="955" frameHeight="856" />
+<SubTexture name="bumbopz up0003" x="719" y="568" width="348" height="555" frameX="-297" frameY="-170" frameWidth="955" frameHeight="856" />
+</TextureAtlas>

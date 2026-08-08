@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "chilled out",
+			"text": "Hey! you did pretty well there!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny"
+		},
+		{
+			"expression": "happy",
+			"text": "Thanks!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "No problem!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "chilled out",
+			"text": "Heh, you remind me of this one kid from Secondary Education!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Yeah, he used to pick on me alot and was also into rap music for some reason. I think his name was Barly if I remember correctly."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question",
+			"text": "I haven't seen him around here much, but he's usually in East Stockware City with his construction crew."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question2",
+			"text": "Honestly I wouldn't go near any construction sites because he owns the biggest one in Aresheer, \"Stockware Engines.\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh..."
+		},
+		{
+			"expression": "question",
+			"text": "However, I do feel like giving this rap battle another go...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny"
+		},
+		{
+			"expression": "ready",
+			"text": "Mind if we have another battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny"
+		},
+		{
+			"expression": "challenge",
+			"text": "Go ahead!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

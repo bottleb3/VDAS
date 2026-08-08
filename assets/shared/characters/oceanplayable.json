@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				680,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ocean idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				600,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ocean left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				740,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ocean down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ocean up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				660,
+				120
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ocean right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				680,
+				120
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ocean missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				690,
+				120
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ocean missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				620,
+				110
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ocean missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				870,
+				110
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ocean missdown",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/ocean",
+	"position": [
+		-300,
+		-10
+	],
+	"healthicon": "Ocean",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		0,
+		255
+	],
+	"camera_position": [
+		610,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

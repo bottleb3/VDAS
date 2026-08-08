@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "you sitdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "you sitdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "you sitdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "you sitdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "you sitdown",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/you",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nooone",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		-125
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [400, 230],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fakender idle"
+		},
+		{
+			"offsets": [400, 230],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fakender left"
+		},
+		{
+			"offsets": [400, 230],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fakender down"
+		},
+		{
+			"offsets": [400, 230],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fakender up"
+		},
+		{
+			"offsets": [400, 230],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fakender right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "stages/secret-shhhh/faker/fakender",
+	"position": [0, 0],
+	"healthicon": "Fakender",
+	"flip_x": false,
+	"healthbar_colors": [35, 0, 55],
+	"camera_position": [-570, -120],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

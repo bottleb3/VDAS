@@ -1,0 +1,77 @@
+{
+	"position": [
+		50,
+		110
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"image": "gf",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gf annoyed",
+			"idle_name": "gf annoyed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "embarrased",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gf embarrased",
+			"idle_name": "gf embarrased"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gf happy",
+			"idle_name": "gf happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gf ANGERY",
+			"idle_name": "gf ANGERY"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "fml",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gf fml",
+			"idle_name": "gf fml"
+		}
+	]
+}

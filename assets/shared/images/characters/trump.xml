@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trump.png">
+<SubTexture name="trump down0000" x="433" y="2824" width="439" height="470" frameX="-291" frameY="-519" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump down0001" x="0" y="2824" width="433" height="609" frameX="-287" frameY="-380" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump down0002" x="3405" y="1685" width="481" height="730" frameX="-246" frameY="-259" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump down0003" x="2024" y="1925" width="575" height="848" frameX="-189" frameY="-141" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump idle0000" x="3405" y="846" width="584" height="839" frameX="-103" frameY="-152" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump idle0001" x="1554" y="1925" width="470" height="878" frameX="-214" frameY="-113" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump idle0002" x="2635" y="922" width="411" height="907" frameX="-269" frameY="-84" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump idle0003" x="2267" y="0" width="368" height="922" frameX="-309" frameY="-69" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump left0000" x="3405" y="0" width="847" height="846" frameX="-3" frameY="-145" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump left0001" x="749" y="1925" width="805" height="891" frameX="-61" frameY="-100" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump left0002" x="2635" y="0" width="770" height="922" frameX="-87" frameY="-69" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump left0003" x="865" y="0" width="701" height="958" frameX="-121" frameY="-33" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump right0000" x="0" y="1925" width="749" height="899" frameX="-181" frameY="-63" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump right0001" x="762" y="982" width="738" height="927" frameX="-153" frameY="-36" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump right0002" x="0" y="982" width="762" height="943" frameX="-124" frameY="-19" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump right0003" x="1566" y="0" width="701" height="950" frameX="-159" frameY="-19" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump up0000" x="2599" y="1925" width="433" height="848" frameX="-314" frameY="-143" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump up0001" x="1500" y="982" width="433" height="925" frameX="-313" frameY="-66" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump up0002" x="432" y="0" width="433" height="968" frameX="-313" frameY="-23" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="trump up0003" x="0" y="0" width="432" height="982" frameX="-313" frameY="-9" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

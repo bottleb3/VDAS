@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "benbu right"
+		},
+		{
+			"offsets": [
+				340,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "benbu idle"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "benbu up"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "benbu left"
+		},
+		{
+			"offsets": [
+				339,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "benbu down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/benbu",
+	"position": [
+		60,
+		-60
+	],
+	"healthicon": "benbu",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		50,
+		50
+	],
+	"camera_position": [
+		-450,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

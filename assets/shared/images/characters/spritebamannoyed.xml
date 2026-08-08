@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spritebamannoyed.png">
+<SubTexture name="spritebamannoyed down0000" x="584" y="2439" width="434" height="763" frameX="-514" frameY="-506" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed down0001" x="1454" y="1637" width="434" height="797" frameX="-513" frameY="-472" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed down0002" x="876" y="829" width="433" height="806" frameX="-513" frameY="-463" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed down0003" x="444" y="0" width="432" height="823" frameX="-513" frameY="-446" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed idle0000" x="2734" y="0" width="530" height="789" frameX="-491" frameY="-479" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed idle0001" x="1888" y="1637" width="495" height="795" frameX="-502" frameY="-473" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed idle0002" x="2311" y="0" width="423" height="802" frameX="-527" frameY="-466" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed idle0003" x="1309" y="829" width="382" height="806" frameX="-547" frameY="-462" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed left0000" x="0" y="1637" width="612" height="802" frameX="-442" frameY="-466" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed left0001" x="1778" y="0" width="533" height="806" frameX="-482" frameY="-462" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed left0002" x="0" y="829" width="455" height="808" frameX="-517" frameY="-460" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed left0003" x="455" y="829" width="421" height="807" frameX="-540" frameY="-461" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed right0000" x="0" y="2439" width="584" height="770" frameX="-475" frameY="-496" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed right0001" x="2734" y="789" width="507" height="787" frameX="-511" frameY="-479" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed right0002" x="1778" y="806" width="423" height="803" frameX="-557" frameY="-463" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed right0003" x="2311" y="802" width="384" height="801" frameX="-570" frameY="-465" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed stomp0000" x="1000" y="1637" width="454" height="799" frameX="-497" frameY="-469" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed stomp0001" x="1327" y="0" width="451" height="813" frameX="-500" frameY="-454" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed stomp0002" x="876" y="0" width="451" height="822" frameX="-500" frameY="-445" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed stomp0003" x="0" y="0" width="444" height="829" frameX="-506" frameY="-438" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed up0000" x="1547" y="2439" width="643" height="705" frameX="-470" frameY="-563" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed up0001" x="1018" y="2439" width="529" height="752" frameX="-511" frameY="-516" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed up0002" x="2734" y="1576" width="472" height="780" frameX="-535" frameY="-488" frameWidth="1554" frameHeight="1554" />
+<SubTexture name="spritebamannoyed up0003" x="612" y="1637" width="388" height="801" frameX="-578" frameY="-467" frameWidth="1554" frameHeight="1554" />
+</TextureAtlas>

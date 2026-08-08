@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				230,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "beauty idle"
+		},
+		{
+			"offsets": [
+				230,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "beauty left"
+		},
+		{
+			"offsets": [
+				230,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "beauty down"
+		},
+		{
+			"offsets": [
+				230,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "beauty right"
+		},
+		{
+			"offsets": [
+				230,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "beauty up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "stages/secret-shhhh/worship/beauty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "beauty",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		170,
+		170
+	],
+	"camera_position": [
+		-420,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

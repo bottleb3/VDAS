@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="temi.png">
+<SubTexture name="temi down0000" x="0" y="1954" width="504" height="451" frameX="-260" frameY="-328" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi down0001" x="2142" y="0" width="475" height="463" frameX="-277" frameY="-310" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi down0002" x="0" y="1001" width="409" height="479" frameX="-309" frameY="-292" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi down0003" x="1118" y="489" width="338" height="488" frameX="-346" frameY="-274" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi idle0000" x="409" y="1001" width="318" height="479" frameX="-357" frameY="-282" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi idle0001" x="1464" y="0" width="295" height="484" frameX="-371" frameY="-277" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi idle0002" x="264" y="504" width="278" height="491" frameX="-379" frameY="-270" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi idle0003" x="0" y="504" width="264" height="497" frameX="-387" frameY="-264" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi left0000" x="441" y="1480" width="474" height="472" frameX="-218" frameY="-289" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi left0001" x="378" y="0" width="420" height="500" frameX="-269" frameY="-261" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi left0002" x="0" y="0" width="378" height="504" frameX="-301" frameY="-257" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi left0003" x="798" y="0" width="320" height="498" frameX="-351" frameY="-263" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi right0000" x="915" y="1480" width="509" height="469" frameX="-353" frameY="-296" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi right0001" x="1120" y="1001" width="445" height="477" frameX="-360" frameY="-285" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi right0002" x="727" y="1001" width="393" height="478" frameX="-362" frameY="-281" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi right0003" x="542" y="504" width="336" height="490" frameX="-369" frameY="-269" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi up0000" x="0" y="1480" width="441" height="474" frameX="-306" frameY="-178" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi up0001" x="1424" y="1480" width="404" height="468" frameX="-330" frameY="-202" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi up0002" x="1759" y="0" width="383" height="477" frameX="-347" frameY="-224" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="temi up0003" x="1118" y="0" width="346" height="489" frameX="-370" frameY="-244" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

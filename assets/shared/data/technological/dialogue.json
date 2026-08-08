@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "Huh, not bad for a little guy like you..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Jembi, what are you on about?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "What? I was trying to-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "You wasn't even trying with that."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "But the song was good though, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah, sure..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "exausted",
+			"text": "Hey, wait a minute..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "What if you invited these two over for..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "\"Content.\"\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hm, I don't know... Would yall be interested in doing that?\r"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "beepbapbobop",
+			"text": "Oh yeah, absolutely!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "Keep my face out of it, please."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Alright, sounds good!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I don't live far away from here so meet me up in the hou-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Well I hate to cut into this conversation, but how about another one..?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Sure!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jembi",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "Then it's settled..."
+		}
+	]
+}

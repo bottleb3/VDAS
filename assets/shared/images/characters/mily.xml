@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mily.png">
+<SubTexture name="mily down0000" x="1438" y="1429" width="435" height="418" frameX="-134" frameY="-174" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily down0001" x="369" y="1429" width="442" height="441" frameX="-133" frameY="-151" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily down0002" x="1038" y="963" width="449" height="457" frameX="-132" frameY="-135" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily down0003" x="1142" y="0" width="447" height="466" frameX="-136" frameY="-126" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily idle0000" x="1132" y="1429" width="306" height="432" frameX="-155" frameY="-160" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily idle0001" x="1589" y="456" width="306" height="447" frameX="-155" frameY="-145" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily idle0002" x="381" y="963" width="298" height="463" frameX="-173" frameY="-129" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily idle0003" x="766" y="484" width="306" height="469" frameX="-186" frameY="-123" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily left0000" x="709" y="0" width="433" height="479" frameX="-88" frameY="-113" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily left0001" x="0" y="484" width="408" height="479" frameX="-116" frameY="-113" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily left0002" x="335" y="0" width="374" height="480" frameX="-139" frameY="-112" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily left0003" x="0" y="0" width="335" height="484" frameX="-158" frameY="-108" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily right0000" x="0" y="1429" width="369" height="453" frameX="-262" frameY="-138" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily right0001" x="679" y="963" width="359" height="463" frameX="-261" frameY="-129" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily right0002" x="1142" y="466" width="364" height="466" frameX="-246" frameY="-126" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily right0003" x="408" y="484" width="358" height="472" frameX="-216" frameY="-120" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily up0000" x="811" y="1429" width="321" height="435" frameX="-185" frameY="-63" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily up0001" x="1589" y="903" width="341" height="445" frameX="-185" frameY="-78" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily up0002" x="1589" y="0" width="358" height="456" frameX="-185" frameY="-93" frameWidth="700" frameHeight="700" />
+<SubTexture name="mily up0003" x="0" y="963" width="381" height="466" frameX="-172" frameY="-108" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

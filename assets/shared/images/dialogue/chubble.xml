@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chubble.png">
+<SubTexture name="chubble agressive0000" x="379" y="0" width="229" height="248" frameX="-9" frameY="-8" frameWidth="256" frameHeight="256" />
+<SubTexture name="chubble angry0000" x="0" y="255" width="229" height="248" frameX="-9" frameY="-8" frameWidth="256" frameHeight="256" />
+<SubTexture name="chubble challenged0000" x="0" y="0" width="160" height="255" frameX="-73" frameY="-1" frameWidth="256" frameHeight="256" />
+<SubTexture name="chubble sarcastic0000" x="160" y="0" width="219" height="254" frameX="-16" frameY="-2" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

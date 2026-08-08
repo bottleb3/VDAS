@@ -1,0 +1,50 @@
+{
+	"storyName": "the store",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "spritebam",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"card",
+			"spritebam",
+			[
+				255,
+				0,
+				73
+			]
+		],
+		[
+			"giveaway",
+			"spritebam",
+			[
+				255,
+				0,
+				73
+			]
+		],
+		[
+			"broadcast moderation",
+			"spritebam",
+			[
+				255,
+				0,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "spritebam week",
+	"hiddenUntilUnlocked": false
+}

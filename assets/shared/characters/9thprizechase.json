@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				940,
+				411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "9thprizechase idle"
+		},
+		{
+			"offsets": [
+				940,
+				411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "9thprizechase idle"
+		},
+		{
+			"offsets": [
+				940,
+				411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "9th prizechase idle"
+		},
+		{
+			"offsets": [
+				940,
+				411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "9thprizechase idle"
+		},
+		{
+			"offsets": [
+				940,
+				411
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "9thprizechase idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/marathons/fun-learning/9thprizechase",
+	"position": [
+		640,
+		400
+	],
+	"healthicon": "9thprize",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		170
+	],
+	"camera_position": [
+		-770,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

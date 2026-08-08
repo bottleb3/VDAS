@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, -30],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jembi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -30],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jembi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -30],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jembi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -30],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jembi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -30],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jembi right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Jembi",
+	"position": [0, -110],
+	"healthicon": "Jembi",
+	"flip_x": false,
+	"healthbar_colors": [20, 255, 53],
+	"camera_position": [-400, -350],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

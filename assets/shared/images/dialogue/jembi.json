@@ -1,0 +1,90 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		230,
+		120
+	],
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "exausted",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jembi exausted",
+			"idle_name": "jembi exausted"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "challenged",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jembi challenged",
+			"idle_name": "jembi challenged"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "challenged 2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jembi actually challenged",
+			"idle_name": "jembi actually challenged"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "relaxed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jembi relaxed",
+			"idle_name": "jembi relaxed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sarcastic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jembi sarcastic",
+			"idle_name": "jembi sarcastic"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "getting ready",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jembi getting ready",
+			"idle_name": "jembi getting ready"
+		}
+	],
+	"image": "jembi"
+}

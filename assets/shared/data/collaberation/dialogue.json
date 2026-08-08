@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Alright, we'll let you go. For now..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ok, ok, thanks."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "challenged",
+			"text": "No problem."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend and Girlfriend quickly went to Spritebam's house before Chubble could change his mind."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Hi!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "beepbapbobop",
+			"text": "Hey!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "embarrased",
+			"text": "Hi."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "So the stream wont start for about 20 minutes so make yourselves at home!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "No problem!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just then, there was a knock on the door."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narriator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "To Spritebam's surprise, it was everyone who Boyfriend and Girlfriend met on their journey!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Look, Little Miss, if me and my wife can't beat him, then surely all of us can? Right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhm- sure?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Who are you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "danny",
+			"boxState": "normal",
+			"expression": "question2",
+			"text": "This is my neighbour, mind him."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hm, well if you want another rap battle, then I'll come first since I own the place."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "sarcastic",
+			"text": "Fair."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Are you alright with having one final rap battle before the stream starts, Boyfriend?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "Yeah, sure. I'm starting to get tired."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spritebam",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Great! Make this one quick though just so we don't miss the stream!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "chubble",
+			"boxState": "normal",
+			"expression": "agressive",
+			"text": "Fine, whatever that is."
+		}
+	]
+}

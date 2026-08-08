@@ -1,0 +1,1 @@
+setproperty('dadcurCharacter.x', getproperty('dadcurCharacter.x')-200)

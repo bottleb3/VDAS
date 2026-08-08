@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				290,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "cementbi idle"
+		},
+		{
+			"offsets": [
+				290,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "cementbi left"
+		},
+		{
+			"offsets": [
+				290,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "cementbi down"
+		},
+		{
+			"offsets": [
+				290,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "cementbi up"
+		},
+		{
+			"offsets": [
+				290,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "cementbi right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/cementbi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cementbi",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		124,
+		123
+	],
+	"camera_position": [
+		-380,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

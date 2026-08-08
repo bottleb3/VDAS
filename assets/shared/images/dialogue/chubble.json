@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		230,
+		130
+	],
+	"no_antialiasing": true,
+	"scale": 1.9,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "agressive",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "chubble agressive",
+			"idle_name": "chubble agressive"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angery",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "chubble angry",
+			"idle_name": "chubble angry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "challenged",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "chubble challenged",
+			"idle_name": "chubble challenged"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sarcastic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "chubble sarcastic",
+			"idle_name": "chubble sarcastic"
+		}
+	],
+	"image": "chubble"
+}

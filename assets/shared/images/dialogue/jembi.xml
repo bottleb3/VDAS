@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jembi.png">
+<SubTexture name="jembi challenged0000" x="201" y="256" width="212" height="253" frameX="-33" frameY="-3" frameWidth="256" frameHeight="256" />
+<SubTexture name="jembi exausted0000" x="207" y="0" width="212" height="254" frameX="-29" frameY="-2" frameWidth="256" frameHeight="256" />
+<SubTexture name="jembi actually challenged0000" x="419" y="0" width="227" height="254" frameX="-17" frameY="-2" frameWidth="256" frameHeight="256" />
+<SubTexture name="jembi relaxed0000" x="0" y="0" width="207" height="256" frameX="-19" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="jembi sarcastic0000" x="413" y="256" width="226" height="249" frameX="-21" frameY="-7" frameWidth="256" frameHeight="256" />
+<SubTexture name="jembi getting ready0000" x="0" y="256" width="201" height="254" frameX="-12" frameY="-2" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

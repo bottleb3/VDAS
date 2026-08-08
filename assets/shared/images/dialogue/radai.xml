@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="radai.png">
+<SubTexture name="radai stare0000" x="0" y="0" width="322" height="512" frameX="-105" frameY="0" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

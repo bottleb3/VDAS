@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [400, -150],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jembicord idle"
+		},
+		{
+			"offsets": [400, -150],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jembicord poses"
+		},
+		{
+			"offsets": [400, -150],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jembicord poses"
+		},
+		{
+			"offsets": [400, -150],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jembicord poses"
+		},
+		{
+			"offsets": [400, -150],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jembicord poses"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/jembicord",
+	"position": [0, -110],
+	"healthicon": "Jembi",
+	"flip_x": true,
+	"healthbar_colors": [20, 255, 53],
+	"camera_position": [460, 160],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": true
+}

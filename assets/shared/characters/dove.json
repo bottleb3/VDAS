@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				340,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dove idle"
+		},
+		{
+			"offsets": [
+				340,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dove right"
+		},
+		{
+			"offsets": [
+				340,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dove up"
+		},
+		{
+			"offsets": [
+				340,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dove left"
+		},
+		{
+			"offsets": [
+				340,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dove down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/dove",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "Dove",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		85,
+		170
+	],
+	"camera_position": [
+		-430,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

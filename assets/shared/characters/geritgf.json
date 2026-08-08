@@ -1,0 +1,72 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "geritgf left"
+		},
+		{
+			"offsets": [
+				55,
+				160
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "geritgf left"
+		},
+		{
+			"offsets": [
+				55,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "geritgf right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/marathons/fun-learning/geritgf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bitchfriend",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-220,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

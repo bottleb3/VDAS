@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "autism danny idle"
+		},
+		{
+			"offsets": [
+				210,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "autism danny right"
+		},
+		{
+			"offsets": [
+				210,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "autism danny up"
+		},
+		{
+			"offsets": [
+				210,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "autism danny left"
+		},
+		{
+			"offsets": [
+				210,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "autism danny down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/autism danny",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "autism danny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		-380,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -3844,7 +3844,7 @@
 		"stage": "cave",
 		"arrowSkin": "",
 		"needsVoices": true,
-		"speed": 3.3,
+		"speed": 2.3,
 		"bpm": 200
 	}
 }

@@ -28,21 +28,21 @@ function onCreate()
 	addLuaText('JukeBoxText')
 	
 	--text for the composer
-	makeLuaText('JukeBoxSubText', 'Composer: bottle_b3', 300, -305-IntroTagWidth, 100)
+	makeLuaText('JukeBoxSubText', 'Composer: b3plush', 300, -305-IntroTagWidth, 100)
 	setTextAlignment('JukeBoxSubText', 'left')
 	setObjectCamera('JukeBoxSubText', 'other')
 	setTextSize('JukeBoxSubText', IntroSubTextSize)
 	addLuaText('JukeBoxSubText')
 
 	--text for the artist
-	makeLuaText('JukeBoxSubSubText', 'Artist: bottle_b3', 300, -305-IntroTagWidth, 130)
+	makeLuaText('JukeBoxSubSubText', 'Artist: b3plush', 300, -305-IntroTagWidth, 130)
 	setTextAlignment('JukeBoxSubSubText', 'left')
 	setObjectCamera('JukeBoxSubSubText', 'other')
 	setTextSize('JukeBoxSubSubText', IntroSubTextSize)
 	addLuaText('JukeBoxSubSubText')
 
 	--text for the charter
-	makeLuaText('JukeBoxSuberText', 'Charter: bottle_b3', 300, -305-IntroTagWidth, 160)
+	makeLuaText('JukeBoxSuberText', 'Charter: b3plush', 300, -305-IntroTagWidth, 160)
 	setTextAlignment('JukeBoxSuberText', 'left')
 	setObjectCamera('JukeBoxSuberText', 'other')
 	setTextSize('JukeBoxSuberText', IntroSubTextSize)

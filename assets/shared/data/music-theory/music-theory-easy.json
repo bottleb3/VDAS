@@ -5624,7 +5624,7 @@
 		"song": "music-theory",
 		"needsVoices": true,
 		"stage": "chubbleroom",
-		"speed": 2.6,
+		"speed": 1.6,
 		"bpm": 167
 	}
 }

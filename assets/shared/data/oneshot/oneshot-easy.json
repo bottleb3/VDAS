@@ -2682,7 +2682,7 @@
 		"song": "oneshot",
 		"needsVoices": true,
 		"stage": "spritehouse",
-		"speed": 2.6,
+		"speed": 1.6,
 		"bpm": 188
 	}
 }

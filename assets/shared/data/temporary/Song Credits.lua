@@ -42,7 +42,7 @@ function onCreate()
 	addLuaText('JukeBoxSubSubText')
 
 	--text for the charter
-	makeLuaText('JukeBoxSuberText', 'Charter: b3plush', 300, -305-IntroTagWidth, 160)
+	makeLuaText('JukeBoxSuberText', 'Charter: Goofyfan', 300, -305-IntroTagWidth, 160)
 	setTextAlignment('JukeBoxSuberText', 'left')
 	setObjectCamera('JukeBoxSuberText', 'other')
 	setTextSize('JukeBoxSuberText', IntroSubTextSize)

@@ -3,7 +3,7 @@ local startedFirstDialogue = false
 local startedEndDialogue = false
 
 function onStartCountdown()
-    if not allowCountdown and not seenCutscene and isStoryMode and not startedFirstDialogue then
+    if not allowCountdown and isStoryMode and not startedFirstDialogue then
         setProperty('inCutscene', true);
         runTimer('startDialogue', 0.8);
         startedFirstDialogue = true;
@@ -14,7 +14,7 @@ function onStartCountdown()
 end
 
 function onEndSong()
-    if not allowCountdown and seenCutscene and isStoryMode and not startedEndDialogue then
+    if not allowCountdown and isStoryMode and not startedEndDialogue then
         setProperty('inCutscene', true);
         runTimer('startDialogueEnd', 0.8);
         startedEndDialogue = true;
@@ -26,8 +26,8 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
     if tag == 'startDialogue' then
-        startDialogue('dialogue');
+        startDialogue('dialogue', 'blammed');
     elseif tag == 'startDialogueEnd' then
-        startDialogue('dialogueEnd');
+        startDialogue('dialogueEnd', 'blammed');
     end
 end

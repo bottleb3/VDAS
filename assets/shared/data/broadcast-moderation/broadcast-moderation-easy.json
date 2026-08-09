@@ -4898,7 +4898,7 @@
 		"song": "broadcast-moderation",
 		"needsVoices": true,
 		"stage": "store",
-		"speed": 3,
+		"speed": 2,
 		"bpm": 210
 	}
 }

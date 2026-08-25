@@ -1,6 +1,5 @@
 import substates.PauseSubState;
 import flixel.util.FlxTimer;
-import flixel.math.FlxPoint;
 import states.PlayState;
 import backend.Paths;
 import lime.app.Application;
@@ -10,7 +9,6 @@ import openfl.ui.Mouse;
 import openfl.ui.MouseCursor;
 import openfl.Lib;
 import flixel.FlxG;
-import flixel.util.FlxColor;
 import flixel.FlxSprite;
 import flixel.math.FlxRect;
 
@@ -18,22 +16,26 @@ import flixel.math.FlxRect;
 
 var nsh:FlxSprite; //next secret song unlock hitbox
 var washover:Bool = false;
+var dont:Bool = ClientPrefs.data.secretlock >= 1;
 
 function onCreate()
 {
-	if (ClientPrefs.data.secretlock >= 1) close(true);
-	nsh = new FlxSprite(-350, 200).makeGraphic(212, 890, FlxColor.BLUE);
-	nsh.alpha = 0;
-	//nsh.screenCenter();
-	add(nsh);
-	FlxG.sound.load(Paths.sound("beep"));
+	if (!dont) {
+		nsh = new FlxSprite(-350, 200).makeGraphic(212, 890, FlxColor.BLUE);
+		nsh.alpha = 0;
+		//nsh.screenCenter();
+		add(nsh);
+		FlxG.sound.load(Paths.sound("beep"));
+	}
 }
 
 function onCreatePost()
 {
-	FlxG.mouse.load(Paths.image("cursorpoint").bitmap, 0.5, 32, 32);
-	FlxG.mouse.visible = true;
-	if (ClientPrefs.data.secretlock >= 1) close(true);
+	if (!dont) {
+		FlxG.mouse.load(Paths.image("cursorpoint").bitmap, 0.5, 32, 32);
+		FlxG.mouse.visible = true;
+	}
+	else game.hscriptArray.remove(this);
 }
 
 function onDestroy()

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="susie.png">
+<SubTexture name="idle0000" x="927" y="0" width="309" height="647" frameX="-329" frameY="-190" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0001" x="618" y="0" width="309" height="649" frameX="-332" frameY="-188" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0002" x="309" y="0" width="309" height="650" frameX="-336" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0003" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0004" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0005" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0006" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0007" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0008" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="idle0009" x="0" y="0" width="309" height="653" frameX="-349" frameY="-184" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

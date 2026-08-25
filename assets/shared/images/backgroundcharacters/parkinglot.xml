@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="parkinglot.png">
+<SubTexture name="idle0000" x="0" y="1492" width="1368" height="688" frameX="-539" frameY="-381" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0001" x="0" y="767" width="1330" height="725" frameX="-581" frameY="-342" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0002" x="1261" y="0" width="1304" height="742" frameX="-613" frameY="-325" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0003" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0004" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0005" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0006" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0007" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0008" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+<SubTexture name="idle0009" x="0" y="0" width="1261" height="767" frameX="-663" frameY="-300" frameWidth="2560" frameHeight="1350" />
+</TextureAtlas>

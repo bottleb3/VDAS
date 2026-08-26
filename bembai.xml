@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bembai.png">
+<SubTexture name="bembai down0000" x="3661" y="0" width="686" height="697" frameX="-133" frameY="-208" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai down0001" x="2071" y="2278" width="676" height="709" frameX="-142" frameY="-195" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai down0002" x="506" y="2278" width="664" height="716" frameX="-154" frameY="-188" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai down0003" x="2356" y="1542" width="644" height="725" frameX="-173" frameY="-179" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai idle0000" x="0" y="2278" width="506" height="723" frameX="-251" frameY="-182" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai idle0001" x="1850" y="1542" width="506" height="729" frameX="-251" frameY="-176" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai idle0002" x="2235" y="742" width="506" height="738" frameX="-251" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai idle0003" x="733" y="786" width="506" height="747" frameX="-251" frameY="-158" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai left0000" x="0" y="3001" width="962" height="682" frameX="-10" frameY="-223" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai left0001" x="1170" y="2278" width="901" height="710" frameX="-40" frameY="-195" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai left0002" x="464" y="1542" width="841" height="733" frameX="-72" frameY="-172" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai left0003" x="2235" y="0" width="788" height="742" frameX="-95" frameY="-163" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai right0000" x="3023" y="0" width="638" height="707" frameX="-166" frameY="-196" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai right0001" x="1305" y="1542" width="545" height="730" frameX="-213" frameY="-173" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai right0002" x="0" y="1542" width="464" height="736" frameX="-250" frameY="-167" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai right0003" x="1563" y="747" width="414" height="744" frameX="-294" frameY="-159" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai up0000" x="0" y="0" width="795" height="786" frameX="-37" frameY="-118" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai up0001" x="795" y="0" width="768" height="776" frameX="-64" frameY="-128" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai up0002" x="0" y="786" width="733" height="756" frameX="-95" frameY="-149" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="bembai up0003" x="1563" y="0" width="672" height="747" frameX="-156" frameY="-158" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

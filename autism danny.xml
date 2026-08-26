@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="autism danny.png">
+<SubTexture name="autism danny down0000" x="0" y="0" width="269" height="571" frameX="-238" frameY="-50" frameWidth="757" frameHeight="673" />
+<SubTexture name="autism danny idle0000" x="269" y="0" width="269" height="571" frameX="-238" frameY="-50" frameWidth="757" frameHeight="673" />
+<SubTexture name="autism danny left0000" x="538" y="0" width="269" height="571" frameX="-238" frameY="-50" frameWidth="757" frameHeight="673" />
+<SubTexture name="autism danny right0000" x="807" y="0" width="269" height="571" frameX="-238" frameY="-50" frameWidth="757" frameHeight="673" />
+<SubTexture name="autism danny up0000" x="1076" y="0" width="269" height="571" frameX="-238" frameY="-50" frameWidth="757" frameHeight="673" />
+</TextureAtlas>

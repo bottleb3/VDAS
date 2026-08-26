@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="waffle.png">
+<SubTexture name="waffle down0000" x="985" y="0" width="129" height="169" frameX="-79" frameY="-64" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle down0001" x="794" y="703" width="97" height="174" frameX="-93" frameY="-59" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle down0002" x="751" y="385" width="85" height="181" frameX="-93" frameY="-52" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle down0003" x="751" y="385" width="85" height="181" frameX="-93" frameY="-52" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle idle0000" x="866" y="380" width="87" height="186" frameX="-52" frameY="-47" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle idle0001" x="866" y="191" width="72" height="189" frameX="-67" frameY="-44" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle idle0002" x="628" y="223" width="74" height="193" frameX="-79" frameY="-40" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle idle0003" x="628" y="223" width="74" height="193" frameX="-79" frameY="-40" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle left0000" x="128" y="703" width="127" height="187" frameX="-2" frameY="-43" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle left0001" x="751" y="193" width="115" height="192" frameX="-17" frameY="-39" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle left0002" x="751" y="0" width="115" height="193" frameX="-33" frameY="-37" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle left0003" x="751" y="0" width="115" height="193" frameX="-33" frameY="-37" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missdown0000" x="494" y="484" width="166" height="210" frameX="-63" frameY="-44" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missdown0001" x="165" y="484" width="137" height="215" frameX="-74" frameY="-39" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missdown0002" x="628" y="0" width="123" height="223" frameX="-75" frameY="-32" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missdown0003" x="628" y="0" width="123" height="223" frameX="-75" frameY="-32" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missleft0000" x="335" y="256" width="256" height="224" frameX="0" frameY="-24" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missleft0001" x="165" y="0" width="155" height="231" frameX="0" frameY="-19" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missleft0002" x="320" y="0" width="152" height="231" frameX="-16" frameY="-18" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missleft0003" x="320" y="0" width="152" height="231" frameX="-16" frameY="-18" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missright0000" x="472" y="0" width="156" height="229" frameX="-41" frameY="-21" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missright0001" x="165" y="256" width="170" height="226" frameX="-37" frameY="-24" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missright0002" x="302" y="484" width="192" height="215" frameX="-32" frameY="-34" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missright0003" x="302" y="484" width="192" height="215" frameX="-32" frameY="-34" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missup0000" x="0" y="0" width="165" height="256" frameX="-32" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missup0001" x="0" y="484" width="165" height="219" frameX="-32" frameY="0" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missup0002" x="0" y="256" width="165" height="228" frameX="-32" frameY="-6" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle missup0003" x="0" y="256" width="165" height="228" frameX="-32" frameY="-6" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle right0000" x="641" y="703" width="153" height="177" frameX="-50" frameY="-54" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle right0001" x="255" y="703" width="130" height="187" frameX="-55" frameY="-44" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle right0002" x="866" y="0" width="119" height="191" frameX="-59" frameY="-41" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle right0003" x="866" y="0" width="119" height="191" frameX="-59" frameY="-41" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle up0000" x="513" y="703" width="128" height="180" frameX="-50" frameY="-8" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle up0001" x="385" y="703" width="128" height="184" frameX="-50" frameY="-17" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle up0002" x="0" y="703" width="128" height="188" frameX="-50" frameY="-26" frameWidth="256" frameHeight="256" />
+<SubTexture name="waffle up0003" x="0" y="703" width="128" height="188" frameX="-50" frameY="-26" frameWidth="256" frameHeight="256" />
+</TextureAtlas>

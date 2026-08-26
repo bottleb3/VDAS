@@ -2,79 +2,79 @@
 	"animations": [
 		{
 			"offsets": [
-				-6,
-				0
+				-294,
+				-180
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "you sitdown"
+			"name": "yoshi idle"
 		},
 		{
 			"offsets": [
-				5,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "you sitdown"
-		},
-		{
-			"offsets": [
-				-20,
-				-51
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "you sitdown"
-		},
-		{
-			"offsets": [
-				-46,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "you sitdown"
-		},
-		{
-			"offsets": [
-				-48,
-				-7
+				-336,
+				-200
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "you sitdown"
+			"name": "yoshi right"
+		},
+		{
+			"offsets": [
+				-440,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yoshi up"
+		},
+		{
+			"offsets": [
+				-110,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yoshi left"
+		},
+		{
+			"offsets": [
+				-300,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yoshi down"
 		}
 	],
 	"vocals_file": "",
-	"no_antialiasing": false,
-	"image": "characters/you",
+	"no_antialiasing": true,
+	"image": "characters/yoshi",
 	"position": [
-		0,
-		350
+		-600,
+		80
 	],
-	"healthicon": "spritebam",
-	"flip_x": true,
+	"healthicon": "yoshi",
+	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		0,
-		147
+		38,
+		127,
+		0
 	],
 	"camera_position": [
-		-80,
-		-410
+		-1010,
+		-665
 	],
-	"sing_duration": 4,
-	"scale": 1,
+	"sing_duration": 6.1,
+	"scale": 2.9,
 	"_editor_isPlayer": false
 }

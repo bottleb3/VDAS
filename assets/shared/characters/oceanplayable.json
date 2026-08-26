@@ -107,7 +107,7 @@
 		-300,
 		-10
 	],
-	"healthicon": "Ocean",
+	"healthicon": "ocean",
 	"flip_x": true,
 	"healthbar_colors": [
 		46,

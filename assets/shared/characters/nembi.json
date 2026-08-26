@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				605,
+				355
+			],
 			"loop": false,
-			"offsets": [605, 355],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "nembi idle",
-			"indices": []
+			"indices": [],
+			"name": "nembi idle"
 		},
 		{
+			"offsets": [
+				605,
+				355
+			],
 			"loop": false,
-			"offsets": [605, 355],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "nembi right",
-			"indices": []
+			"indices": [],
+			"name": "nembi right"
 		},
 		{
+			"offsets": [
+				605,
+				355
+			],
 			"loop": false,
-			"offsets": [605, 355],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "nembi up",
-			"indices": []
+			"indices": [],
+			"name": "nembi up"
 		},
 		{
+			"offsets": [
+				605,
+				355
+			],
 			"loop": false,
-			"offsets": [605, 355],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "nembi left",
-			"indices": []
+			"indices": [],
+			"name": "nembi left"
 		},
 		{
+			"offsets": [
+				605,
+				355
+			],
 			"loop": false,
-			"offsets": [605, 355],
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "nembi down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nembi down"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/nembi",
-	"position": [50, 0],
-	"healthicon": "Nembi",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "nembi",
 	"flip_x": false,
-	"healthbar_colors": [1, 255, 255],
-	"camera_position": [-570, -240],
+	"healthbar_colors": [
+		1,
+		255,
+		255
+	],
+	"camera_position": [
+		-570,
+		-240
+	],
 	"sing_duration": 6.1,
 	"scale": 0.8,
 	"_editor_isPlayer": false

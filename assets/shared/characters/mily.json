@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
-			"offsets": [250, -130],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				250,
+				-130
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "mily idle"
+			"fps": 24,
+			"name": "mily idle",
+			"indices": []
 		},
 		{
-			"offsets": [250, -130],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				250,
+				-130
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "mily right"
+			"fps": 24,
+			"name": "mily right",
+			"indices": []
 		},
 		{
-			"offsets": [250, -130],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				250,
+				-130
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "mily up"
+			"fps": 24,
+			"name": "mily up",
+			"indices": []
 		},
 		{
-			"offsets": [250, -130],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				250,
+				-130
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "mily left"
+			"fps": 24,
+			"name": "mily left",
+			"indices": []
 		},
 		{
-			"offsets": [250, -130],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				250,
+				-130
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "mily down"
+			"fps": 24,
+			"name": "mily down",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/mily",
-	"position": [50, 0],
-	"healthicon": "Mily",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "mily",
 	"flip_x": false,
-	"healthbar_colors": [255, 85, 84],
-	"camera_position": [-420, 80],
+	"healthbar_colors": [
+		255,
+		85,
+		84
+	],
+	"camera_position": [
+		-420,
+		80
+	],
 	"sing_duration": 6.1,
 	"scale": 1.2,
 	"_editor_isPlayer": false

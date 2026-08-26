@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [340, 30],
+			"offsets": [
+				340,
+				30
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "gento idle",
-			"indices": []
+			"loop": false,
+			"name": "gento idle"
 		},
 		{
-			"loop": false,
-			"offsets": [340, 30],
+			"offsets": [
+				340,
+				30
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "gento right",
-			"indices": []
+			"loop": false,
+			"name": "gento right"
 		},
 		{
-			"loop": false,
-			"offsets": [340, 30],
+			"offsets": [
+				340,
+				30
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "gento up",
-			"indices": []
+			"loop": false,
+			"name": "gento up"
 		},
 		{
-			"loop": false,
-			"offsets": [340, 30],
+			"offsets": [
+				340,
+				30
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "gento left",
-			"indices": []
+			"loop": false,
+			"name": "gento left"
 		},
 		{
-			"loop": false,
-			"offsets": [340, 30],
-			"anim": "singDOWN",
+			"offsets": [
+				340,
+				30
+			],
+			"indices": [],
 			"fps": 24,
-			"name": "gento down",
-			"indices": []
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gento down"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/gento",
-	"position": [50, 0],
-	"healthicon": "Gento",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "gento",
 	"flip_x": false,
-	"healthbar_colors": [255, 0, 0],
-	"camera_position": [-350, 30],
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-350,
+		30
+	],
 	"sing_duration": 6.1,
 	"scale": 0.8,
 	"_editor_isPlayer": false

@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
-			"offsets": [580, 340],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				580,
+				340
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "meldo idle"
+			"fps": 24,
+			"name": "meldo idle",
+			"indices": []
 		},
 		{
-			"offsets": [580, 340],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				580,
+				340
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "meldo left"
+			"fps": 24,
+			"name": "meldo left",
+			"indices": []
 		},
 		{
-			"offsets": [580, 340],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				580,
+				340
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "meldo down"
+			"fps": 24,
+			"name": "meldo down",
+			"indices": []
 		},
 		{
-			"offsets": [580, 340],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				580,
+				340
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "meldo up"
+			"fps": 24,
+			"name": "meldo up",
+			"indices": []
 		},
 		{
-			"offsets": [580, 340],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				580,
+				340
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "meldo right"
+			"fps": 24,
+			"name": "meldo right",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/meldo",
-	"position": [0, 40],
-	"healthicon": "Meldo",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "meldo",
 	"flip_x": false,
-	"healthbar_colors": [249, 255, 38],
-	"camera_position": [-755, -249],
+	"healthbar_colors": [
+		249,
+		255,
+		38
+	],
+	"camera_position": [
+		-755,
+		-249
+	],
 	"sing_duration": 6.1,
 	"scale": 1,
 	"_editor_isPlayer": false

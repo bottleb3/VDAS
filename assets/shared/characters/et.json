@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [349, 0],
+			"offsets": [
+				349,
+				0
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "e dot tea dot idle",
-			"indices": []
+			"loop": false,
+			"name": "e dot tea dot idle"
 		},
 		{
-			"loop": false,
-			"offsets": [319, 10],
+			"offsets": [
+				319,
+				10
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "e dot tea dot right",
-			"indices": []
+			"loop": false,
+			"name": "e dot tea dot right"
 		},
 		{
-			"loop": false,
-			"offsets": [359, 40],
+			"offsets": [
+				359,
+				40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "e dot tea dot up",
-			"indices": []
+			"loop": false,
+			"name": "e dot tea dot up"
 		},
 		{
-			"loop": false,
-			"offsets": [369, 40],
+			"offsets": [
+				369,
+				40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "e dot tea dot left",
-			"indices": []
+			"loop": false,
+			"name": "e dot tea dot left"
 		},
 		{
-			"loop": false,
-			"offsets": [349, 29],
-			"anim": "singDOWN",
+			"offsets": [
+				349,
+				29
+			],
+			"indices": [],
 			"fps": 24,
-			"name": "e dot tea dot down",
-			"indices": []
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "e dot tea dot down"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/e dot tea dot",
-	"position": [50, 0],
-	"healthicon": "ET",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "et",
 	"flip_x": false,
-	"healthbar_colors": [150, 170, 85],
-	"camera_position": [-590, -70],
+	"healthbar_colors": [
+		150,
+		170,
+		85
+	],
+	"camera_position": [
+		-590,
+		-70
+	],
 	"sing_duration": 6.1,
 	"scale": 1.2,
 	"_editor_isPlayer": false

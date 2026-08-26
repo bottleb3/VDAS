@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
-			"offsets": [400, -150],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				-150
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "jembicord idle"
+			"fps": 24,
+			"name": "jembicord idle",
+			"indices": []
 		},
 		{
-			"offsets": [400, -150],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				-150
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "jembicord poses"
+			"fps": 24,
+			"name": "jembicord poses",
+			"indices": []
 		},
 		{
-			"offsets": [400, -150],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				-150
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "jembicord poses"
+			"fps": 24,
+			"name": "jembicord poses",
+			"indices": []
 		},
 		{
-			"offsets": [400, -150],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				-150
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "jembicord poses"
+			"fps": 24,
+			"name": "jembicord poses",
+			"indices": []
 		},
 		{
-			"offsets": [400, -150],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				-150
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "jembicord poses"
+			"fps": 24,
+			"name": "jembicord poses",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
-	"image": "characters/jembicord",
-	"position": [0, -110],
-	"healthicon": "Jembi",
+	"image": "characters/Jembicord",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "jembi",
 	"flip_x": true,
-	"healthbar_colors": [20, 255, 53],
-	"camera_position": [460, 160],
+	"healthbar_colors": [
+		20,
+		255,
+		53
+	],
+	"camera_position": [
+		460,
+		160
+	],
 	"sing_duration": 6.1,
 	"scale": 1.5,
 	"_editor_isPlayer": true

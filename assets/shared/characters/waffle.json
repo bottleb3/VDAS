@@ -9,7 +9,18 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "jembi_playable idle"
+			"name": "waffle idle"
+		},
+		{
+			"offsets": [
+				395,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "waffle left"
 		},
 		{
 			"offsets": [
@@ -20,7 +31,7 @@
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "jembi_playable down"
+			"name": "waffle down"
 		},
 		{
 			"offsets": [
@@ -31,7 +42,29 @@
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "jembi_playable up"
+			"name": "waffle up"
+		},
+		{
+			"offsets": [
+				395,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "waffle right"
+		},
+		{
+			"offsets": [
+				395,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "waffle missright"
 		},
 		{
 			"offsets": [
@@ -42,7 +75,7 @@
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "jembi_playable missup"
+			"name": "waffle missup"
 		},
 		{
 			"offsets": [
@@ -53,72 +86,39 @@
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "jembi_playable missdown"
+			"name": "waffle missdown"
 		},
 		{
 			"offsets": [
 				395,
 				430
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "jembi_playable missleft"
-		},
-		{
-			"offsets": [
-				395,
-				430
-			],
 			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "jembi_playable missright"
-		},
-		{
-			"offsets": [
-				395,
-				430
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFT",
-			"loop": false,
-			"name": "jembi_playable left"
-		},
-		{
-			"offsets": [
-				395,
-				430
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"loop": false,
-			"name": "jembi_playable right"
+			"name": "waffle missleft"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
-	"image": "characters/jembi_playable",
+	"image": "characters/waffle",
 	"position": [
-		0,
-		350
+		510,
+		780
 	],
-	"healthicon": "jembi",
-	"flip_x": false,
+	"healthicon": "waffle",
+	"flip_x": true,
 	"healthbar_colors": [
-		0,
-		255,
-		0
+		64,
+		134,
+		204
 	],
 	"camera_position": [
-		450,
-		-360
+		590,
+		-530
 	],
 	"sing_duration": 4,
-	"scale": 1,
+	"scale": 2.6,
 	"_editor_isPlayer": true
 }

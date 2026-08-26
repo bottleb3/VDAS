@@ -1,94 +1,134 @@
 {
 	"animations": [
 		{
-			"offsets": [220, -40],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "spritebam idle"
+			"fps": 24,
+			"name": "spritebam idle",
+			"indices": []
 		},
 		{
-			"offsets": [220, -40],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "spritebam left"
+			"fps": 24,
+			"name": "spritebam left",
+			"indices": []
 		},
 		{
-			"offsets": [220, -40],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "spritebam down"
+			"fps": 24,
+			"name": "spritebam down",
+			"indices": []
 		},
 		{
-			"offsets": [220, -40],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "spritebam up"
+			"fps": 24,
+			"name": "spritebam up",
+			"indices": []
 		},
 		{
-			"offsets": [220, -40],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "spritebam right"
+			"fps": 24,
+			"name": "spritebam right",
+			"indices": []
 		},
 		{
-			"offsets": [220, -40],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "stomp",
+			"fps": 24,
+			"name": "spritebam stomp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				220,
+				-40
+			],
 			"indices": [],
-			"name": "spritebam stomp"
-		},
-		{
-			"loop": false,
-			"offsets": [220, -40],
+			"fps": 24,
 			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "spritebam missup",
-			"indices": []
+			"loop": false,
+			"name": "spritebam missup"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "spritebam missright",
-			"indices": []
+			"loop": false,
+			"name": "spritebam missright"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "spritebam missleft",
-			"indices": []
+			"loop": false,
+			"name": "spritebam missleft"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
-			"anim": "singDOWNmiss",
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
 			"fps": 24,
-			"name": "spritebam missdown",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "spritebam missdown"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/Spritebam",
-	"position": [-390, -460],
+	"position": [
+		-390,
+		-460
+	],
 	"healthicon": "spritebam",
 	"flip_x": false,
-	"healthbar_colors": [255, 0, 147],
-	"camera_position": [-230, 290],
+	"healthbar_colors": [
+		255,
+		0,
+		147
+	],
+	"camera_position": [
+		-230,
+		290
+	],
 	"sing_duration": 4,
 	"scale": 0.8,
 	"_editor_isPlayer": false

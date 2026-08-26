@@ -1,54 +1,79 @@
 {
 	"animations": [
 		{
-			"offsets": [400, 230],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				230
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "fakender idle"
+			"fps": 24,
+			"name": "fakender idle",
+			"indices": []
 		},
 		{
-			"offsets": [400, 230],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				230
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "fakender left"
+			"fps": 24,
+			"name": "fakender left",
+			"indices": []
 		},
 		{
-			"offsets": [400, 230],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				230
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "fakender down"
+			"fps": 24,
+			"name": "fakender down",
+			"indices": []
 		},
 		{
-			"offsets": [400, 230],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				230
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "fakender up"
+			"fps": 24,
+			"name": "fakender up",
+			"indices": []
 		},
 		{
-			"offsets": [400, 230],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				400,
+				230
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "fakender right"
+			"fps": 24,
+			"name": "fakender right",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "stages/secret-shhhh/faker/fakender",
-	"position": [0, 0],
-	"healthicon": "Fakender",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fakender",
 	"flip_x": false,
-	"healthbar_colors": [35, 0, 55],
-	"camera_position": [-570, -120],
+	"healthbar_colors": [
+		35,
+		0,
+		55
+	],
+	"camera_position": [
+		-570,
+		-120
+	],
 	"sing_duration": 6.1,
 	"scale": 1,
 	"_editor_isPlayer": false

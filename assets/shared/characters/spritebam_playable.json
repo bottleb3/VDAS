@@ -1,7 +1,10 @@
 {
 	"animations": [
 		{
-			"offsets": [219, -40],
+			"offsets": [
+				219,
+				-40
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
@@ -9,7 +12,10 @@
 			"name": "spritebam idle"
 		},
 		{
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
@@ -17,7 +23,10 @@
 			"name": "spritebam down"
 		},
 		{
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
@@ -25,7 +34,10 @@
 			"name": "spritebam up"
 		},
 		{
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "stomp",
@@ -34,7 +46,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singUPmiss",
 			"fps": 24,
 			"name": "spritebam missup",
@@ -42,7 +57,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
 			"name": "spritebam missdown",
@@ -50,7 +68,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
 			"name": "spritebam missright",
@@ -58,37 +79,56 @@
 		},
 		{
 			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
 			"name": "spritebam missleft",
 			"indices": []
 		},
 		{
-			"offsets": [220, -40],
-			"loop": false,
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
+			"loop": false,
 			"name": "spritebam left"
 		},
 		{
-			"offsets": [220, -40],
-			"loop": false,
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
+			"loop": false,
 			"name": "spritebam right"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
-	"image": "characters/Spritebam",
-	"position": [-390, -450],
+	"image": "characters/spritebam",
+	"position": [
+		-390,
+		-450
+	],
 	"healthicon": "spritebam",
 	"flip_x": false,
-	"healthbar_colors": [255, 0, 147],
-	"camera_position": [0, 290],
+	"healthbar_colors": [
+		255,
+		0,
+		147
+	],
+	"camera_position": [
+		0,
+		290
+	],
 	"sing_duration": 4,
 	"scale": 0.8,
 	"_editor_isPlayer": true

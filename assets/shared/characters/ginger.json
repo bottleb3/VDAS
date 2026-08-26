@@ -1,7 +1,10 @@
 {
 	"animations": [
 		{
-			"offsets": [300, 30],
+			"offsets": [
+				280,
+				50
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -9,7 +12,10 @@
 			"name": "ginger right"
 		},
 		{
-			"offsets": [300, 30],
+			"offsets": [
+				280,
+				50
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
@@ -17,7 +23,10 @@
 			"name": "ginger idle"
 		},
 		{
-			"offsets": [300, 30],
+			"offsets": [
+				280,
+				50
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
@@ -25,7 +34,10 @@
 			"name": "ginger up"
 		},
 		{
-			"offsets": [300, 30],
+			"offsets": [
+				280,
+				50
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
@@ -33,7 +45,10 @@
 			"name": "ginger left"
 		},
 		{
-			"offsets": [300, 30],
+			"offsets": [
+				280,
+				50
+			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
@@ -44,12 +59,22 @@
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/ginger",
-	"position": [50, 0],
-	"healthicon": "Ginger",
+	"position": [
+		50,
+		-20
+	],
+	"healthicon": "ginger",
 	"flip_x": false,
-	"healthbar_colors": [255, 170, 0],
-	"camera_position": [-380, 120],
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		-400,
+		120
+	],
 	"sing_duration": 6.1,
-	"scale": 0.8,
+	"scale": 0.9,
 	"_editor_isPlayer": false
 }

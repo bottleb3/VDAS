@@ -1,62 +1,90 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "spritebamannoyed idle",
-			"indices": []
+			"loop": false,
+			"name": "spritebamannoyed idle"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "spritebamannoyed left",
-			"indices": []
+			"loop": false,
+			"name": "spritebamannoyed left"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "spritebamannoyed down",
-			"indices": []
+			"loop": false,
+			"name": "spritebamannoyed down"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "spritebamannoyed up",
-			"indices": []
+			"loop": false,
+			"name": "spritebamannoyed up"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "spritebamannoyed right",
-			"indices": []
+			"loop": false,
+			"name": "spritebamannoyed right"
 		},
 		{
-			"loop": false,
-			"offsets": [220, -40],
-			"anim": "stomp",
+			"offsets": [
+				220,
+				-40
+			],
+			"indices": [],
 			"fps": 24,
-			"name": "spritebamannoyed stomp",
-			"indices": []
+			"anim": "stomp",
+			"loop": false,
+			"name": "spritebamannoyed stomp"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/spritebamannoyed",
-	"position": [-390, -460],
+	"position": [
+		-390,
+		-460
+	],
 	"healthicon": "spritebam",
 	"flip_x": false,
-	"healthbar_colors": [255, 0, 147],
-	"camera_position": [-230, 290],
+	"healthbar_colors": [
+		255,
+		0,
+		147
+	],
+	"camera_position": [
+		-230,
+		290
+	],
 	"sing_duration": 4,
 	"scale": 0.8,
 	"_editor_isPlayer": false

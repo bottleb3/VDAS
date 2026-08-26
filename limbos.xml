@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="limbos.png">
+<SubTexture name="limbos down0000" x="1998" y="1087" width="347" height="502" frameX="-330" frameY="-262" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos down0001" x="583" y="1289" width="352" height="565" frameX="-330" frameY="-221" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos down0002" x="1128" y="0" width="337" height="634" frameX="-330" frameY="-185" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos idle0000" x="935" y="1289" width="473" height="557" frameX="-232" frameY="-78" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos idle0001" x="859" y="666" width="435" height="600" frameX="-255" frameY="-109" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos idle0002" x="0" y="666" width="367" height="623" frameX="-290" frameY="-132" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos idle0003" x="0" y="0" width="293" height="666" frameX="-333" frameY="-163" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos left0000" x="932" y="1864" width="593" height="456" frameX="-13" frameY="-221" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos left0001" x="1408" y="1289" width="560" height="486" frameX="-29" frameY="-203" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos left0002" x="1465" y="0" width="533" height="595" frameX="-103" frameY="-172" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos left0003" x="293" y="0" width="427" height="650" frameX="-218" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos right0000" x="481" y="1864" width="451" height="474" frameX="-470" frameY="-169" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos right0001" x="0" y="1864" width="481" height="485" frameX="-370" frameY="-177" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos right0002" x="1998" y="549" width="462" height="538" frameX="-332" frameY="-197" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos right0003" x="1465" y="595" width="461" height="594" frameX="-266" frameY="-211" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos up0000" x="1998" y="0" width="617" height="549" frameX="-173" frameY="-14" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos up0001" x="0" y="1289" width="583" height="575" frameX="-185" frameY="-54" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos up0002" x="367" y="666" width="492" height="623" frameX="-227" frameY="-85" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="limbos up0003" x="720" y="0" width="408" height="642" frameX="-277" frameY="-130" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

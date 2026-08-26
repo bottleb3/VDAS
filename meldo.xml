@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meldo.png">
+<SubTexture name="meldo down0000" x="394" y="1635" width="393" height="492" frameX="-622" frameY="-577" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo down0001" x="2040" y="1035" width="380" height="510" frameX="-627" frameY="-559" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo down0002" x="1288" y="537" width="346" height="526" frameX="-646" frameY="-549" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo down0003" x="0" y="555" width="319" height="543" frameX="-660" frameY="-530" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo idle0000" x="0" y="1635" width="394" height="501" frameX="-635" frameY="-588" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo idle0001" x="1288" y="0" width="383" height="537" frameX="-647" frameY="-551" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo idle0002" x="0" y="0" width="364" height="555" frameX="-670" frameY="-529" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo idle0003" x="319" y="555" width="362" height="542" frameX="-671" frameY="-523" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo left0000" x="2040" y="0" width="545" height="519" frameX="-461" frameY="-563" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo left0001" x="854" y="1098" width="499" height="528" frameX="-506" frameY="-551" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo left0002" x="0" y="1098" width="428" height="537" frameX="-579" frameY="-537" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo left0003" x="428" y="1098" width="426" height="536" frameX="-611" frameY="-530" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo right0000" x="2040" y="519" width="480" height="516" frameX="-780" frameY="-539" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo right0001" x="681" y="555" width="512" height="538" frameX="-696" frameY="-539" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo right0002" x="364" y="0" width="472" height="545" frameX="-683" frameY="-534" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo right0003" x="836" y="0" width="452" height="545" frameX="-637" frameY="-528" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo up0000" x="787" y="1635" width="367" height="469" frameX="-670" frameY="-596" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo up0001" x="1671" y="1036" width="368" height="493" frameX="-671" frameY="-572" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo up0002" x="1671" y="526" width="369" height="510" frameX="-671" frameY="-555" frameWidth="1719" frameHeight="1591" />
+<SubTexture name="meldo up0003" x="1671" y="0" width="369" height="526" frameX="-672" frameY="-539" frameWidth="1719" frameHeight="1591" />
+</TextureAtlas>

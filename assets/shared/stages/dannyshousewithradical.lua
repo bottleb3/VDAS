@@ -4,7 +4,7 @@ makeLuaSprite('layer1', 'stages/canon/landscape', -900, -300);
 setScrollFactor('layer1', 0.8, 0.8);
 makeLuaSprite('layer2', 'stages/canon/mainweek/dannyhouse', -600, -300);
 setScrollFactor('layer2', 1.0, 1.0);
-makeAnimatedLuaSprite('layer3', 'backgroundcharacters/radicalweek4', -600, 50);
+makeAnimatedLuaSprite('layer3', 'backgroundcharacters/radicalweek4', -800, 130);
 addAnimationByPrefix('layer3','idle','idle', 24, true)
 objectPlayAnimation('layer3','idle',true)
 setScrollFactor('layer3', 1, 1)

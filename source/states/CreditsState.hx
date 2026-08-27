@@ -40,7 +40,7 @@ class CreditsState extends MusicBeatState
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			["Danny And Spritebam Team"],
 			["b3plush", "b3", "Main Developer of the Mod", "https://youtube.com/@bottle_b3", "FF0000"],
-			["amartistrandom", "amartistrandom", "Menu Background Artist", "https://x.com/AMartistrandom", "FFFFFF"],
+			["amartistrandom", "amartistrandom", "Menu Background Artist", "https://www.youtube.com/@AMtheartistrandom", "FFFFFF"],
 			["bobgaming34", "bobgaming", "SoftCode Scripter", "https://x.com/BobGaming34", "FF6865"],
 			["daybreak", "daybreak", "Creator of Meldo, made jello's background and composer of jello and high effort ", "", "FF03BA15"],
 			["Meero", "mkmeero", "Source Coder of the Mod", "https://youtube.com/@mk_meero", "FFD97F2C"]

@@ -378,11 +378,60 @@ class PlayState extends MusicBeatState
 
 		switch (curStage)
 		{
-			case 'stage': new StageWeek1(); 			//Week 1
-			case 'spooky': new Spooky();				//Week 2
-			case 'philly': new Philly();				//Week 3
-			case 'limo': new Limo();					//Week 4
-			case 'mall': new Mall();					//Week 5 - Cocoa, Eggnog
+			case 'placeholder': //Weekname
+				var bg:BGSprite = new BGSprite('placeholder', -600, -200, 0.9, 0.9);
+				add(bg);
+				wiggleShit.effectType = WiggleEffectType.FLAG;
+				wiggleShit.waveAmplitude = 0.1;
+				wiggleShit.waveFrequency = 5;
+				wiggleShit.waveSpeed = 3;
+				bg.shader = wiggleShit.shader;
+
+			case 'limbosbg': //Weekname
+				var bg:BGSprite = new BGSprite('stages/joke/limbosbg', -600, -200, 0.9, 0.9);
+				add(bg);
+				wiggleShit.effectType = WiggleEffectType.FLAG;
+				wiggleShit.waveAmplitude = 0.1;
+				wiggleShit.waveFrequency = 5;
+				wiggleShit.waveSpeed = 3;
+				bg.shader = wiggleShit.shader;
+
+			case 'limbosbgevil': //Weekname
+				var bg:BGSprite = new BGSprite('stages/joke/limbosbgevil', -600, -200, 0.9, 0.9);
+				add(bg);
+				wiggleShit.effectType = WiggleEffectType.FLAG;
+				wiggleShit.waveAmplitude = 0.1;
+				wiggleShit.waveFrequency = 5;
+				wiggleShit.waveSpeed = 3;
+				bg.shader = wiggleShit.shader;
+
+			case 'etback': //Weekname
+				var bg:BGSprite = new BGSprite('stages/other/etback', -600, -200, 0.9, 0.9);
+				add(bg);
+				wiggleShit.effectType = WiggleEffectType.FLAG;
+				wiggleShit.waveAmplitude = 0.1;
+				wiggleShit.waveFrequency = 5;
+				wiggleShit.waveSpeed = 3;
+				bg.shader = wiggleShit.shader;
+
+			case 'meldoback': //Weekname
+				var bg:BGSprite = new BGSprite('stages/other/meldoback', -600, -200, 0.9, 0.9);
+				add(bg);
+				wiggleShit.effectType = WiggleEffectType.FLAG;
+				wiggleShit.waveAmplitude = 0.1;
+				wiggleShit.waveFrequency = 5;
+				wiggleShit.waveSpeed = 3;
+				bg.shader = wiggleShit.shader;
+
+			case 'beautyback': //Weekname
+				var bg:BGSprite = new BGSprite('stages/secret-shhhh/worship/beautyback', -600, -200, 0.9, 0.9);
+				add(bg);
+				wiggleShit.effectType = WiggleEffectType.FLAG;
+				wiggleShit.waveAmplitude = 0.1;
+				wiggleShit.waveFrequency = 5;
+				wiggleShit.waveSpeed = 3;
+				bg.shader = wiggleShit.shader;
+				
 			case 'mallEvil': new MallEvil();			//Week 5 - Winter Horrorland
 			case 'school': new School();				//Week 6 - Senpai, Roses
 			case 'schoolEvil': new SchoolEvil();		//Week 6 - Thorns

@@ -15,14 +15,14 @@ import flixel.math.FlxRect;
 //Hscript is psych engine stuff, Haxe is the source that made the engine itself, so F DEM SQUIGGELY RED LINES THAT MAKES ME QUESTION MYSELF
 
 var nsh:FlxSprite; //next secret song unlock hitbox
-var washover:Bool = false;
+var clickable:Bool = true;
+var clicked:Bool = false;
 var dont:Bool = ClientPrefs.data.secretlock >= 1;
 
 function onCreate()
 {
 	if (!dont) {
-		nsh = new FlxSprite(-350, 200).makeGraphic(212, 890, FlxColor.BLUE);
-		nsh.alpha = 0;
+		nsh = new FlxSprite(-350, 200).makeGraphic(212, 890, FlxColor.TRANSPARENT);
 		//nsh.screenCenter();
 		add(nsh);
 		FlxG.sound.load(Paths.sound("beep"));
@@ -75,8 +75,8 @@ function onUpdatePost(elapsed:Float)
     if (onhover && FlxG.mouse.justPressed) {
 		PauseSubState.secret = true;
 		FlxG.sound.play(Paths.sound("beep"));
-        ClientPrefs.data.secretlock = 1;
-        ClientPrefs.saveSettings();
+        clicked = true;
+		clickable = false;
         trace("wow new song!");
     }
 }
@@ -108,6 +108,7 @@ function onCountdownTick(tick:Countdown, counter:Int)
 		case Countdown.START:
 			new FlxTimer().start(19, timer -> {
 				FlxG.mouse.visible = false;
+				clickable = false;
 				remove(nsh);
 			});
 	}
@@ -126,6 +127,10 @@ function onSongStart()
 function onEndSong()
 {
 	PauseSubState.secret = false;
+	if (clicked) {
+		ClientPrefs.data.secretlock = 1;
+		ClientPrefs.saveSettings();
+	}
 	return Function_Continue;
 }
 

@@ -70,7 +70,6 @@ class TitleState extends MusicBeatState
 		Paths.clearStoredMemory();
 		super.create();
 		Paths.clearUnusedMemory();
-
 		if(!initialized)
 		{
 			ClientPrefs.loadPrefs();
@@ -538,36 +537,35 @@ class TitleState extends MusicBeatState
 					FlxG.sound.music.fadeIn(4, 0, 0.7);
 				case 2:
 					createCoolText(['Danny Engine by'], 40);
-				case 4:
+				case 3:
 					addMoreText('Spritebam', 40);
-				case 5:
+				case 4:
 					deleteCoolText();
-				case 6:
+				case 5:
 					createCoolText(['Not associated', 'with'], -40);
-				case 7:
+				case 6:
 					addMoreText('Dave and bambi', -40);
 					ngSpr.visible = true;
-				case 8:
+				case 7:
 					deleteCoolText();
 					ngSpr.visible = false;
-				case 9:
+				case 8:
 					createCoolText([curWacky[0]]);
-				case 10:
+				case 9:
 					addMoreText(curWacky[1]);
-				case 11:
+				case 10:
 					deleteCoolText();
-				case 12:
+				case 11:
 					addMoreText('Danny');
-				case 13:
+				case 12:
 					addMoreText('and');
-				case 14:
+				case 13:
 					addMoreText('Spritebam');
-				case 15:
+				case 14:
 					addMoreText('Apple Tree!');
 				case 16:
 					addMoreText('Apple Bottom jeans,\nboots with the furr'); // credTextShit.text += '\nFunkin';
-				case 17:
-					skipIntro();
+					new FlxTimer().start(0.25, timer -> skipIntro());
 			}
 		}
 	}

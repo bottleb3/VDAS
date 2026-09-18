@@ -238,7 +238,11 @@ class FreeplayState extends MusicBeatState
 			bottomBG.alpha = 0.6;
 			add(bottomBG);
 
+			#if !final
 			var leText:String = Language.getPhrase("freeplay_tip", "Press SPACE to listen to the Song / Press CTRL to open the Gameplay Changers Menu / Press RESET to Reset your Score and Accuracy.");
+			#else
+			var leText:String = "Press SPACE to listen to the Song / Press RESET to Reset your Score and Accuracy.";
+			#end
 			bottomString = leText;
 			var size:Int = 16;
 			bottomText = new FlxText(bottomBG.x, bottomBG.y + 4, FlxG.width, leText, size);
@@ -416,12 +420,13 @@ class FreeplayState extends MusicBeatState
 					MusicBeatState.resetState();
 				}
 			}
-
+			#if !final
 			if(FlxG.keys.justPressed.CONTROL && !player.playingMusic)
 			{
 				persistentUpdate = false;
 				openSubState(new GameplayChangersSubstate());
 			}
+			#end
 			else if(FlxG.keys.justPressed.SPACE)
 			{
 				if(instPlaying != curSelected && !player.playingMusic)

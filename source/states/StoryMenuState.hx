@@ -209,6 +209,11 @@ class StoryMenuState extends MusicBeatState
 		changeWeek();
 		changeDifficulty();
 
+		if (loadedWeeks.length <= 1) {
+			leftArrow.visible = false;
+			rightArrow.visible = false;
+		}
+
 		super.create();
 	}
 
@@ -418,7 +423,7 @@ class StoryMenuState extends MusicBeatState
 			sprDifficulty.y = bgSprite.y + 196;
 
 			FlxTween.cancelTweensOf(sprDifficulty);
-			FlxTween.tween(sprDifficulty, {y: sprDifficulty.y + 30, alpha: 1}, 0.07);
+			FlxTween.tween(sprDifficulty, {y: sprDifficulty.y + 50, alpha: 1}, 0.07);
 		}
 		lastDifficultyName = diff;
 
@@ -544,6 +549,8 @@ class StoryMenuState extends MusicBeatState
 		}
 
 		txtTracklist.text = txtTracklist.text.toUpperCase();
+
+		if (txtTracklist.width > 703) txtTracklist.width = 703;
 
 		txtTracklist.offset.x = txtTracklist.width / 2;
 

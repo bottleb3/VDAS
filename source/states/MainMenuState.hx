@@ -20,7 +20,7 @@ enum MainMenuColumn {
 */
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '1.0.4'; // This is also used for Discord RPC
+	public static var psychEngineVersion:String = '1'; // This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 	//public static var curColumn:MainMenuColumn = CENTER;
 	var allowMouse:Bool = false; //Turn this off to block mouse movement in menus
@@ -66,6 +66,13 @@ class MainMenuState extends MusicBeatState
 		persistentUpdate = persistentDraw = true;
 
 		WeekData.reloadWeekFiles(true);
+
+		#if debug
+		for (week in WeekData.weeksList) {
+			StoryMenuState.weekCompleted.set(week, true);
+		}
+		cw = [for (key in StoryMenuState.weekCompleted.keys()) key]; 
+		#end
 
 		#if final
 		if (cw.length >= WeekData.weeksList.length) {

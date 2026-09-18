@@ -544,29 +544,29 @@ class TitleState extends MusicBeatState
 					deleteCoolText();
 				case 6:
 					createCoolText(['Not associated', 'with'], -40);
-				case 8:
+				case 7:
 					addMoreText('Dave and bambi', -40);
 					ngSpr.visible = true;
-				case 9:
+				case 8:
 					deleteCoolText();
 					ngSpr.visible = false;
-				case 10:
+				case 9:
 					createCoolText([curWacky[0]]);
-				case 12:
+				case 10:
 					addMoreText(curWacky[1]);
-				case 13:
+				case 11:
 					deleteCoolText();
-				case 14:
+				case 12:
 					addMoreText('Danny');
-				case 15:
+				case 13:
 					addMoreText('and');
-				case 16:
+				case 14:
 					addMoreText('Spritebam');
-				case 17:
+				case 15:
 					addMoreText('Apple Tree!');
-				case 18:
+				case 16:
 					addMoreText('Apple Bottom jeans,\nboots with the furr'); // credTextShit.text += '\nFunkin';
-				case 19:
+				case 17:
 					skipIntro();
 			}
 		}
